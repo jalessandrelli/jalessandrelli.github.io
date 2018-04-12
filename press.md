@@ -6,6 +6,10 @@ order: 5
 image: /assets/press.gif
 published: true
 ---
+##### For *The Man on High: Essays on Skateboarding, Hip-Hop, Poetry and The Notorious B.I.G.* (Published in the U.K./U.S. by the UK press Eyewear in March 2018):
+
+[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/default.aspx)   
+
 ##### For *THIS LAST TIME WILL BE THE FIRST* (Finalist for the 2013 Burnside Review Press Book Award, subsequently published by Burnside Review in 2014):
 
 “Immensely fresh and playful…rooted in a childlike antiquity.”—[Rain Taxi]() (print; Winter 2014 issue)
