@@ -20,6 +20,8 @@ Alessandrelli’s poetry… provides its reader with an interesting thought angl
 
 *THIS LAST TIME WILL BE THE FIRST* is an entertaining, insightful book of poems that refuses to settle and embodies a restless, self-conscious pursuit of how a poem both knows and doesn’t know.—[American Microreviews](http://www.americanmicroreviews.com/this-last-time-will-be-the-first-jeff-alessandrelli/)
 
+[Powell's Books Staff Top Five of 2014](http://www.powells.com/staff-top-fives-2014)
+
 In *THIS LAST TIME WILL BE THE FIRST*, Jeff Alessandrelli does a beautiful job using others’ lines and styles as a jumping-off point for his own poems. And though they are homages, they are always totally surprising, and totally his. They are not a game. Alessandrelli is a real human being, unlike the authors of some other poetry books you might be considering right now. Put them down. They do not, underneath their stylistic pyrotechnics, have a beating heart.”—Matthew Rohrer
 
 "Jeff Alessandrelli writes, ‘I am squinting into the faint radiance / of the sun, its light / trying to shine’—*This Last Time Will Be the First* is full of resolutely flickering light. These poems are at work with Emerson’s idea that, ‘A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.’ The mind at work in these poems is not little. It is expansive, it is growing, it is looking to love.”—Emily Pettit
