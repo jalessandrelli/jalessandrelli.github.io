@@ -19,7 +19,7 @@ published: true
 
 - Tuesday, 3/27 @ [Independendent Publishing Resource Center](https://www.iprc.org/), Portland, OR (with Angela Veronica Wong, Emily Kendal Frey and Amy Lawless) [FACEBOOK](https://www.facebook.com/events/157090058436994/) 
 
-- Monday, 3/26 @ [Powell's Books](http://www.powells.com/), Portland, OR (with Angela Veronica Wong, Amy Lawless and a whole slaw of other great writers) [FACEBOOK](https://www.facebook.com/events/198538264226428/)
+- ~~Monday, 3/26 @ [Powell's Books],Portland, OR (with Angela Veronica Wong, Amy Lawless and a whole slaw of other great writers)~~ 
 
 - ~~Sunday, 3/25 @ [Mount Analogue], Seattle, WA (with Angela Veronica Wong, Anastacia-Renee and Amy Lawless~~
 
