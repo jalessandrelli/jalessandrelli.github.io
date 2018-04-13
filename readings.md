@@ -21,7 +21,7 @@ published: true
 
 - Monday, 3/26 @ [Powell's Books](http://www.powells.com/), Portland, OR (with Angela Veronica Wong, Amy Lawless and a whole slaw of other great writers) [FACEBOOK](https://www.facebook.com/events/198538264226428/)
 
-- Sunday, 3/25 @ [Mount Analogue](http://www.mount-analogue.com/), Seattle, WA (with Angela Veronica Wong, Anastacia-Renee and Amy Lawless) [FACEBOOK](https://www.facebook.com/events/201947050391965/)
+- ~~Sunday, 3/25 @ [Mount Analogue], Seattle, WA (with Angela Veronica Wong, Anastacia-Renee and Amy Lawless~~
 
 - ~~Thursday, 3/8 @ The Refinery, Tampa, FL, AWP Eyewear Publishing showcase~~
 
