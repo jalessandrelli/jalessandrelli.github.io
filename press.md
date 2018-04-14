@@ -10,7 +10,11 @@ published: true
 
 [Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/default.aspx)   
 
-##### For *THIS LAST TIME WILL BE THE FIRST* (Finalist for the 2013 Burnside Review Press Book Award, subsequently published by Burnside Review in 2014):
+"A refreshingly heartfelt and multivalent treatise on influence, inspiration, and individuality, Alessandrelli's THE MAN ON HIGH waxes and melds in tribute to a true cultural icon and iconoclast, the B.I.G., along the way reconsidering the nature of the many frames that give us faith amid an era of 'mere numerical arbitrariness.'"—Blake Butler
+
+"In an era where the imagination is bent on nostalgia, the '90s is the number one fetish object, and events like the OJ Simpson trial and the LA Riots are being rehashed in Adidas track suits and retro band merch (I'm writing this in a Sade t-shirt I bought in a suburb of St. Louis over the summer), to the extent that Kendall Jenner tried to sell t-shirts with photos of Biggie on them with no permission from his estate and played naive when she got shut down, we need the complex sincerity of THE MAN ON HIGH. This is a rare example of a black musician who helped set the tonal landscape for an entire subculture actually being given credit and proper attention and love. You'll come away craving a skateboard and some headphones, and feeling Notorious." —Harmony Holiday
+
+##### For *THIS LAST TIME WILL BE THE FIRST* (Finalist for the 2013 Burnside Review Press Book Award, subsequently published by Burnside Review in March 2014):
 
 “Immensely fresh and playful…rooted in a childlike antiquity.”—[Rain Taxi]() (print; Winter 2014 issue)
 
@@ -30,7 +34,7 @@ In *THIS LAST TIME WILL BE THE FIRST*, Jeff Alessandrelli does a beautiful job u
 
 "Jeff Alessandrelli writes, ‘I am squinting into the faint radiance / of the sun, its light / trying to shine’—*This Last Time Will Be the First* is full of resolutely flickering light. These poems are at work with Emerson’s idea that, ‘A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.’ The mind at work in these poems is not little. It is expansive, it is growing, it is looking to love.”—Emily Pettit
 
-##### For *Erik Satie Watusies His Way Into Sound* (Poetic biography of the French avant-garde composer Erik Satie, published by Ravenna Press in 2011):
+##### For *Erik Satie Watusies His Way Into Sound* (Poetic biography of the French avant-garde composer Erik Satie, published by Ravenna Press in October 2011):
 
 A lot is packed into this slim volume of poems, but it doesn’t feel weighed down by its focused subject. It’s clear that a lot of research went into the book, but the poems sprawl, connect, and open up in ways that allow readers to enjoy them on their own. While the poems may be focused on Satie, they are ultimately ontological in nature—searching for answers and understanding but ultimately returning to that *nothing, nothing, nothing and nothing*.—[New Pages](https://www.newpages.com/item/3608-erik-satie-watusies-his-way-into-sound)
 
