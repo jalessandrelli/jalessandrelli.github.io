@@ -11,13 +11,13 @@ published: true
 - Monday, 7/9 @ [Curbside Books & Records](http://www.curbsidebooksrecords.com/), Chicago, IL (with other amazing  readers TBA) 
 
 **Deceased readings:**
-- Thursday, 4/12 @ [Brothers Lounge](http://omahamagazine.com/articles/tag/brothers-lounge/), Omaha, NE (with a whole slaw of other great writers) [FACEBOOK](https://www.facebook.com/events/153861152003084/)
+- ~~Thursday, 4/12 @ Brothers Lounge, Omaha, NE (with Robert Fernandez, Sophie Clark, Emily Borgmann and Maritza Estrada)~~
 
-- Friday, 3/30 @ [Poetic Research Bureau](http://www.poeticresearch.com/), Los Angeles, CA (with Angela Veronica Wong and Amy Lawless) [FACEBOOK](https://www.facebook.com/poeticresearch/)
+- ~~Friday, 3/30 @ Poetic Research Bureau, Los Angeles, CA (with Angela Veronica Wong and Amy Lawless)~~
 
-- Wednesday, 3/28 @ [Moe's Books](http://www.moesbooks.com/events/), Berkeley, CA (with Angela Veronica Wong, Amy Lawless and Mg Roberts) [FACEBOOK](https://www.facebook.com/events/340453223134307/)
+- ~~Wednesday, 3/28 @ Moe's Books, Berkeley, CA (with Angela Veronica Wong, Amy Lawless and Mg Roberts)~~
 
-- Tuesday, 3/27 @ [Independendent Publishing Resource Center](https://www.iprc.org/), Portland, OR (with Angela Veronica Wong, Emily Kendal Frey and Amy Lawless) [FACEBOOK](https://www.facebook.com/events/157090058436994/) 
+- ~~Tuesday, 3/27 @ Independendent Publishing Resource Center, Portland, OR (with Angela Veronica Wong, Emily Kendal Frey and Amy Lawless)~~
 
 - ~~Monday, 3/26 @ Powell's Books ,Portland, OR (with Angela Veronica Wong, Amy Lawless and a whole slaw of other great writers)~~ 
 
