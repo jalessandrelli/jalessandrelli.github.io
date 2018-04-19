@@ -8,6 +8,10 @@ published: true
 ---
 **Upcoming readings and events:**
 
+- Wednesday, 5/2 @ [Pageturners Lounge](https://www.facebook.com/pageturnerslounge/), Omaha, NE (Literary Pub Quz, with Theodore Wheeler and others) [FACEBOOK](https://www.facebook.com/events/837888889745914/)
+
+- Saturday, 5/12, Denver, CO, with Elisa Gabbert, Erinrose Mager and Phil Cordelli. Details TBA ASAP.
+
 - Monday, 7/9 @ [Curbside Books & Records](http://www.curbsidebooksrecords.com/), Chicago, IL (with other amazing  readers TBA) 
 
 **Deceased readings:**
