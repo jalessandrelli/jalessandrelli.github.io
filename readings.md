@@ -8,13 +8,14 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Wednesday, 5/2 @ [Pageturners Lounge](https://www.facebook.com/pageturnerslounge/), Omaha, NE (Literary Pub Quz, with Theodore Wheeler and others) [FACEBOOK](https://www.facebook.com/events/837888889745914/)
-
-- Saturday, 5/12, Denver, CO, with Elisa Gabbert, Erinrose Mager and Phil Cordelli. Details TBA ASAP.
-
 - Monday, 7/9 @ [Curbside Books & Records](http://www.curbsidebooksrecords.com/), Chicago, IL (with other amazing  readers TBA) 
 
 **Deceased readings:**
+
+- ~~Wednesday, 5/2 @ Pageturners Lounge, Omaha, NE (Literary Pub Quz, with Theodore Wheeler and others)~~
+
+- ~~Saturday, 5/12, Denver, CO, with Elisa Gabbert, Erinrose Mager and Phil Cordelli. At Joshua Ware's house~~
+
 - ~~Thursday, 4/12 @ Brothers Lounge, Omaha, NE (with Robert Fernandez, Sophie Clark, Emily Borgmann and Maritza Estrada)~~
 
 - ~~Friday, 3/30 @ Poetic Research Bureau, Los Angeles, CA (with Angela Veronica Wong and Amy Lawless)~~
