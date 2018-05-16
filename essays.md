@@ -11,4 +11,5 @@ Essays by me have appeared at *The American Poetry Review*, *The Millions*, *Den
 - [Entropy](https://entropymag.org/i-dont-know-what-theyre-talking-about-but-the-music-is-good-by-jeff-alessandrelli/)
 - [Full Stop](http://www.full-stop.net/2018/03/28/features/essays/jeff-alessandrelli/frank-oharas-notorious-b-i-g/)
 - [The Millions](http://www.themillions.com/2016/08/tk-on-the-nu-audacity-school-of-poetry.html)
-- [The Fanzine](http://thefanzine.com/author/jeffa/) 
+- [The Fanzine](http://thefanzine.com/author/jeffa/)
+- [Please Kill Me](https://pleasekillme.com/hip-hop-joins-the-academy/)
