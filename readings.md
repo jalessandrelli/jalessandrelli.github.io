@@ -10,11 +10,14 @@ published: true
 
 - Thursday, 7/12 @ [Tattooed Mom](https://www.tattooedmomphilly.com/), Philadelphia, PA (with Warren C. Longmire, Jeff T. Johnson, Christy Davids and Marissa Johnson-Valenzuela) [FACEBOOK](https://www.facebook.com/events/196596550857951/)
 
+- Wednesday, 7/18 @ [
+
 **Deceased readings:**
 
-- ~~Wednesday, 5/2 @ Pageturners Lounge, Omaha, NE (Literary Pub Quz, with Theodore Wheeler and others)~~
 
 - ~~Saturday, 5/12, Denver, CO, with Elisa Gabbert, Erinrose Mager and Phil Cordelli. At Joshua Ware's house~~
+
+- ~~Wednesday, 5/2 @ Pageturners Lounge, Omaha, NE (Literary Pub Quz, with Theodore Wheeler and others)~~
 
 - ~~Thursday, 4/12 @ Brothers Lounge, Omaha, NE (with Robert Fernandez, Sophie Clark, Emily Borgmann and Maritza Estrada)~~
 
