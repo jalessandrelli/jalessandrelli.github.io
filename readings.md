@@ -10,7 +10,7 @@ published: true
 
 - Thursday, 7/12 @ [Tattooed Mom](https://www.tattooedmomphilly.com/), Philadelphia, PA (with Warren C. Longmire, Jeff T. Johnson, Christy Davids and Marissa Johnson-Valenzuela) [FACEBOOK](https://www.facebook.com/events/196596550857951/)
 
-- Wednesday, 7/18 @ [
+- Wednesday, 7/18 @ [Beaverdale Books](http://www.beaverdalebooks.com/), Des Moines, IA (with Kyle Flak, Jennifer L. Knox, Paul Brooke and Kyle McCord) [FACEBOOK](https://www.facebook.com/events/248582682553437/) 
 
 **Deceased readings:**
 
