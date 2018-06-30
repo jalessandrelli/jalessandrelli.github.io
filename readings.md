@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Monday, 7/9 @ [Curbside Books & Records](http://www.curbsidebooksrecords.com/), Chicago, IL (with other amazing  readers TBA) 
+- Thursday, 7/12 @ [Tattooed Mom](https://www.tattooedmomphilly.com/), Philadelphia, PA (with Warren C. Longmire, Jeff T. Johnson, Christy Davids and Marissa Johnson-Valenzuela) [FACEBOOK](https://www.facebook.com/events/196596550857951/)
 
 **Deceased readings:**
 
