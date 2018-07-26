@@ -7,7 +7,7 @@ image: /assets/colorbook.gif
 published: true
 ---
 <span>
-  BIO: Jeff Alessandrelli is a writer. He lives in the United States of America. A slightly longer (albeit slightly outdated) bio can be found at the [Poetry Foundation website](https://www.poetryfoundation.org/poets/jeff-alessandrelli).
+  BIO: Jeff Alessandrelli is a writer. He lives in the United States of America. A slightly longer (albeit outdated) bio can be found at the [Poetry Foundation website](https://www.poetryfoundation.org/poets/jeff-alessandrelli).
 </span>
 
 [![The Man on High: Essays on Skateboarding, Hip-Hop, Poetry and The Notorious B.I.G.]({{ "/assets/man-on-high.jpg" | absolute_url }})](https://www.spdbooks.org/Products/9781912477029/the-man-on-high-essays-on-skateboarding-hiphop-poetry-and-the-notorious-big.aspx)
