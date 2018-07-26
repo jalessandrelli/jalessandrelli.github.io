@@ -8,12 +8,13 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Thursday, 7/12 @ [Tattooed Mom](https://www.tattooedmomphilly.com/), Philadelphia, PA (with Warren C. Longmire, Jeff T. Johnson, Christy Davids and Marissa Johnson-Valenzuela) [FACEBOOK](https://www.facebook.com/events/196596550857951/)
-
-- Wednesday, 7/18 @ [Beaverdale Books](http://www.beaverdalebooks.com/), Des Moines, IA (with Kyle Flak, Jennifer L. Knox, Paul Brooke and Kyle McCord) [FACEBOOK](https://www.facebook.com/events/248582682553437/) 
+TBA.
 
 **Deceased readings:**
 
+- ~~Wednesday, 7/18 @ Beaverdale Books, Des Moines, IA (with Kyle Flak, Jennifer L. Knox, Paul Brooke and Kyle McCord)~~ 
+
+- ~~Thursday, 7/12 @ Tattooed Mom, Philadelphia, PA (with Warren C. Longmire, Jeff T. Johnson, Christy Davids and Marissa Johnson-Valenzuela)~~
 
 - ~~Saturday, 5/12, Denver, CO, with Elisa Gabbert, Erinrose Mager and Phil Cordelli. At Joshua Ware's house~~
 
