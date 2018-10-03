@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-TBA.
+- Thursday, 10/11 @ The College of St. Scholastica, Duluth, MN with [Lupe Linares](http://www.css.edu/about/news-center/calendar-of-events.html#/?i=3)
 
 **Deceased readings:**
 
