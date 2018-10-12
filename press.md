@@ -8,7 +8,9 @@ published: true
 ---
 ##### For *The Man on High: Essays on Skateboarding, Hip-Hop, Poetry and The Notorious B.I.G.* (Published in the U.K./U.S. by the UK press Eyewear in March 2018):
 
-[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/default.aspx)   
+[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/default.aspx)
+
+[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--July-September 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/default.aspx)  
 
 "A refreshingly heartfelt and multivalent treatise on influence, inspiration, and individuality, Alessandrelli's THE MAN ON HIGH waxes and melds in tribute to a true cultural icon and iconoclast, the B.I.G., along the way reconsidering the nature of the many frames that give us faith amid an era of 'mere numerical arbitrariness.'"—Blake Butler
 
