@@ -7,10 +7,11 @@ image: /assets/reading.gif
 published: true
 ---
 **Upcoming readings and events:**
-
-- Thursday, 10/11 @ The College of St. Scholastica, Duluth, MN with [Lupe Linares](http://www.css.edu/about/news-center/calendar-of-events.html#/?i=3)
+TBA
 
 **Deceased readings:**
+
+  ~~- Thursday, 10/11 @ The College of St. Scholastica, Duluth, MN with [Lupe Linares]~~
 
 - ~~Wednesday, 7/18 @ Beaverdale Books, Des Moines, IA (with Kyle Flak, Jennifer L. Knox, Paul Brooke and Kyle McCord)~~ 
 
