@@ -6,6 +6,7 @@ order: 4
 image: "/assets/reviews.gif"
 ---
 I semi-regularly review books for places like *Pleiades*, *Colorado Review*, *The Kenyon Review*, *Boston Review*, *The Rumpus*, and *Rain Taxi*. A few online can be found at:
+
 - [The Rumpus](http://therumpus.net/author/jeff-alessandrelli/)
 - [Colorado Review](http://coloradoreview.colostate.edu/reviews/the-absolute-letter/)
 - [Kenyon Review](https://www.kenyonreview.org/writer/jeff-alessandrelli/)
