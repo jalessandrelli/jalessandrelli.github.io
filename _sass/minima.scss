@@ -23,7 +23,7 @@ $blue-color-dark: midnightblue;
 // Width of the content area
 $content-width:    1200px;
 
-$on-palm:          600px;
+$on-palm:          800px;
 $on-laptop:        1000px;
 
 @mixin media-query($device) {
