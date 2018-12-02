@@ -20,8 +20,6 @@ $green-color-light: lighten($green-color, 25%);
 $green-color-bright: limegreen;
 $blue-color-dark: midnightblue;
 
-$highlight-colors: mistyrose, lavender, powderblue, lemonchiffon, palegreen;
-
 // Width of the content area
 $content-width:    1200px;
 
@@ -41,6 +39,5 @@ $on-laptop:        1000px;
 // Import partials.
 @import
   "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/layout"
 ;
