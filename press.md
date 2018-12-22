@@ -12,6 +12,8 @@ published: true
 
 [Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--July-September 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/default.aspx)  
 
+[Wisconsin Public Radio, KUWS 91.3--The Walt Dizzo Show--The Man on High radio interview](https://drive.google.com/file/d/1pCBAMIUFh3fI7US9xmaJOsgouyCyUIAb/view)
+
 "A refreshingly heartfelt and multivalent treatise on influence, inspiration, and individuality, Alessandrelli's THE MAN ON HIGH waxes and melds in tribute to a true cultural icon and iconoclast, the B.I.G., along the way reconsidering the nature of the many frames that give us faith amid an era of 'mere numerical arbitrariness.'"—Blake Butler
 
 "In an era where the imagination is bent on nostalgia, the '90s is the number one fetish object, and events like the OJ Simpson trial and the LA Riots are being rehashed in Adidas track suits and retro band merch (I'm writing this in a Sade t-shirt I bought in a suburb of St. Louis over the summer), to the extent that Kendall Jenner tried to sell t-shirts with photos of Biggie on them with no permission from his estate and played naive when she got shut down, we need the complex sincerity of THE MAN ON HIGH. This is a rare example of a black musician who helped set the tonal landscape for an entire subculture actually being given credit and proper attention and love. You'll come away craving a skateboard and some headphones, and feeling Notorious." —Harmony Holiday
