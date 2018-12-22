@@ -7,7 +7,8 @@ image: /assets/reading.gif
 published: true
 ---
 **Upcoming readings and events:**
-TBA
+
+- Friday, 4/5 @ [Mission Creek Festival](http://missioncreekfestival.com/schedule-2019/), Iowa City, IA, with a whole slaw of other great writers/publishers. Lit Walk Reading, Book Fair and Publishing Reimagined panel.
 
 **Deceased readings:**
 
