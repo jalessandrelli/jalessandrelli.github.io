@@ -15,6 +15,7 @@ Poems and translations by moí have appeared in *The American Poetry Review*, *B
 - [Witness](https://witness.blackmountaininstitute.org/issues/vol-xxx-2-summer-2017/raonelstam/)
 - [Interim](https://interim.squarespace.com/paz-alessandrelli)
 - [DIAGRAM](http://thediagram.com/11_1/alessandrelli.html)
+- [A Dozen Nothing](https://adozennothing.com/2019/01/01/jeff-alessandrelli-january-2019/)
 - [Prelude](https://preludemag.com/posts/poem-for-consciousness-rumpled-wings-and-layers/)
 - [Powder Keg](http://www.powderkegmagazine.com/jeff-alessandrelli)
 - [Verse Daily](http://www.versedaily.org/2011/eriksatiewatusies.shtml)
