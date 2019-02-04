@@ -8,9 +8,9 @@ published: true
 ---
 ##### For *The Man on High: Essays on Skateboarding, Hip-Hop, Poetry and The Notorious B.I.G.* (Published in the U.K./U.S. by the UK press Eyewear in March 2018):
 
-[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/default.aspx)
+[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/Nonfiction-Bestsellers-January-through-March-2018.aspx)
 
-[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--July-September 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/default.aspx)  
+[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--July-September 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/Nonfiction-Bestsellers-July-through-September-2018.aspx)  
 
 [Wisconsin Public Radio, KUWS 91.3--The Walt Dizzo Show--The Man on High radio interview](https://drive.google.com/file/d/1pCBAMIUFh3fI7US9xmaJOsgouyCyUIAb/view)
 
