@@ -3,10 +3,11 @@ layout: page
 title: Fonograf
 permalink: /fonograf
 order: 8
-image: "/assets/fonograf-logo.jpg"
+image: /assets/fonograf-logo.jpg
+published: true
 ---
 <span>
-  I currently run the vinyl-record only poetry press [*Fonograf Editions*](http://fonografeditions.com/), which has recently released albums by Eileen Myles, Rae Armantrout, Alice Notley, and Harmony Holiday. I wrote about Fonograf’s inception [here at The Fanzine](http://thefanzine.com/bad-business-is-good-art-fonograf-editions/).
+  I currently run the language and literature record label/literary press [*Fonograf Editions*](http://fonografeditions.com/), which has released albums by Eileen Myles, Rae Armantrout, Alice Notley, Harmony Holiday and Susan Howe/Nathaniel Mackey. I wrote about Fonograf’s inception [here at The Fanzine](http://thefanzine.com/bad-business-is-good-art-fonograf-editions/).
 </span>
 
 [![Harmony Holiday]({{ "/assets/fonograf-harmony-holiday.jpg" | absolute_url }})](http://fonografeditions.com/product/fono4-harmony-holiday-the-black-saint-and-the-sinnerman/)
