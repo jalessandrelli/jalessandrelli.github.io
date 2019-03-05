@@ -8,6 +8,10 @@ published: true
 ---
 **Upcoming readings and events:**
 
+- Thursday, 3/28 @ [Music Millenium](https://www.facebook.com/events/291612238201258/), Portland, OR, with Farid  Matuk, Sam Roxas-Chua, Krystal Languell, Paul Hanson Clark and a whole slaw of other amazing poets
+
+- Friday, 3/29 @ [No Fair/Fair](https://nofairfair.com/schedule), Portland, OR, with Hajara Quinn, Amy Lawless, Montreux Rotholtz and a whole slaw of other amazing poets
+
 - Friday, 4/5 @ [Mission Creek Festival](http://missioncreekfestival.com/schedule-2019/), Iowa City, IA, with a whole slaw of other great writers/publishers. Lit Walk Reading, Book Fair and Publishing Reimagined panel.
 
 **Deceased readings:**
