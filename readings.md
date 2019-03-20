@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Thursday, 3/28 @ [Music Millenium](https://www.facebook.com/events/291612238201258/), Portland, OR, with Farid  Matuk, Sam Roxas-Chua, Krystal Languell, Paul Hanson Clark and a whole slaw of other amazing poets
+- Thursday, 3/28 @ [Music Millenium](https://www.facebook.com/events/305986816731004), Portland, OR, with Farid  Matuk, Sam Roxas-Chua, Krystal Languell, Paul Hanson Clark and a whole slaw of other amazing poets
 
 - Friday, 3/29 @ [No Fair/Fair](https://nofairfair.com/schedule), Portland, OR, with Hajara Quinn, Amy Lawless, Montreux Rotholtz and a whole slaw of other amazing poets
 
