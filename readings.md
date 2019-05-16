@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Events
+title: Readings
 permalink: /readings
 order: 9
 image: /assets/reading.gif
