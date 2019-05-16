@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Readings
+title: Events
 permalink: /readings
 order: 9
 image: /assets/reading.gif
@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-TBA
+- Thursday, 5/16 @ [Literary Arts](https://www.facebook.com/events/2263630393955850/), Portland, OR, with Margot Kahn, A.M. Rosales and Ed Skoog, for the Portland Review Spring Reading Celebration 
 
 **Deceased readings:**
 
