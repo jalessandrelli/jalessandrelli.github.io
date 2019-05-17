@@ -18,7 +18,7 @@ published: true
 
 "In an era where the imagination is bent on nostalgia, the '90s is the number one fetish object, and events like the OJ Simpson trial and the LA Riots are being rehashed in Adidas track suits and retro band merch (I'm writing this in a Sade t-shirt I bought in a suburb of St. Louis over the summer), to the extent that Kendall Jenner tried to sell t-shirts with photos of Biggie on them with no permission from his estate and played naive when she got shut down, we need the complex sincerity of THE MAN ON HIGH. This is a rare example of a black musician who helped set the tonal landscape for an entire subculture actually being given credit and proper attention and love. You'll come away craving a skateboard and some headphones, and feeling Notorious." —Harmony Holiday
 
-##### For *THIS LAST TIME WILL BE THE FIRST* (Finalist for the 2013 Burnside Review Press Book Award, subsequently published by Burnside Review in March 2014):
+##### For *THIS LAST TIME WILL BE THE FIRST* (Finalist for the 2012 Burnside Review Press Book Award, subsequently published by Burnside Review in March 2014):
 
 “Immensely fresh and playful…rooted in a childlike antiquity.”—[Rain Taxi]() (print; Winter 2014 issue)
 
