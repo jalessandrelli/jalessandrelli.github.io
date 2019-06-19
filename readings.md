@@ -8,9 +8,11 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Thursday, 5/16 @ [Literary Arts](https://www.facebook.com/events/2263630393955850/), Portland, OR, with Margot Kahn, A.M. Rosales and Ed Skoog, for the Portland Review Spring Reading Celebration 
+- TBA 
 
 **Deceased readings:**
+
+- ~~Thursday, 5/16 @ Literary Arts, Portland, OR, with Margot Kahn, A.M. Rosales and Ed Skoog, for the Portland Review Spring Reading Celebration ~~
 
 - ~~Friday, 4/5 @ Mission Creek Festival, Iowa City, IA, with a whole slaw of other great writers/publishers. Lit Walk Reading, Book Fair and Publishing Reimagined panel.~~
 
@@ -18,7 +20,7 @@ published: true
 
 - ~~Thursday, 3/28 @ Music Millenium, Portland, OR, with Farid  Matuk, Sam Roxas-Chua, Krystal Languell, Paul Hanson Clark and a whole slaw of other amazing poets~~
 
--  ~~Thursday, 10/11 @ The College of St. Scholastica, Duluth, MN with [Lupe Linares]~~
+-  ~~Thursday, 10/11 @ The College of St. Scholastica, Duluth, MN with Lupe Linares~~
 
 - ~~Wednesday, 7/18 @ Beaverdale Books, Des Moines, IA (with Kyle Flak, Jennifer L. Knox, Paul Brooke and Kyle McCord)~~ 
 
