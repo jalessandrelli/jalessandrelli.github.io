@@ -12,9 +12,9 @@ published: true
 
 **Deceased readings:**
 
-- ~~Thursday, 5/16 @ Literary Arts, Portland, OR, with Margot Kahn, A.M. Rosales and Ed Skoog, for the Portland Review Spring Reading Celebration~~
+- ~~Thursday, 5/16 @ Literary Arts, Portland, OR, with Margot Kahn, A.M. Rosales and Ed Skoog, for the Portland Review Spring Reading Celebration.~~
 
-- ~~Friday, 4/5 @ Mission Creek Festival, Iowa City, IA, with a whole slaw of other great writers/publishers. Lit Walk Reading, Book Fair and Publishing Reimagined panel.~~
+- ~~Friday, 4/5 @ Mission Creek Festival, Iowa City, IA, with a whole slaw of other great writers/publishers. Lit Walk Reading, Book Fair and Publishing Reimagined panel~~
 
 - ~~Friday, 3/29 @ No Fair/Fair, Portland, OR, with Hajara Quinn, Amy Lawless, Montreux Rotholtz and a whole slaw of other amazing poets~~
 
