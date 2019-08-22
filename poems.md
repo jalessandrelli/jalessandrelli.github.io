@@ -8,6 +8,7 @@ published: true
 ---
 Poems and translations by moí have appeared in *The American Poetry Review*, *Boston Review*,
 *Gulf Coast*, *Pleiades*, *DIAGRAM*, *The Common*, *Salt Hill*, *Poetry Daily*, *Denver Quarterly*, *Western Humanities Review, Verse Daily*, *Prairie Schooner*, *Witness* and *Interim*, among others. A few online can be found at:
+- [Poetry Daily](https://poems.com/poem/poem-for-hilda-doolittle-hilda-morley/)   
 - [Witness](https://witness.blackmountaininstitute.org/issues/vol-xxx-2-summer-2017/raonelstam/)
 - [The Laurel Review](https://laurelreview.org/issues/501)
 - [The Elephants](https://theelephants.net/records/jeff-alessandrelli)
