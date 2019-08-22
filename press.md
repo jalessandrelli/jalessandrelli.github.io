@@ -56,4 +56,4 @@ Personal letter from Nick Admussen about *Don’t Let Me Forget To Feed the Shar
 
 ##### For *People Are Places Are Places Are People* (Chapbook published by Imaginary Friend Press in 2013):
 
-“I know that the sun is a byproduct/ of an infinitude of marigolds/and pure supple honey,/ but I don’t believe it,” Alessandrelli writes in “It’s the Things You Know that Are Hardest to Believe.” It’s as if a poetic truth can be believed into being, but once it exists, it no longer relies on the believer.—Cutbank
+“I know that the sun is a byproduct/ of an infinitude of marigolds/and pure supple honey,/ but I don’t believe it,” Alessandrelli writes in “It’s the Things You Know that Are Hardest to Believe.” It’s as if a poetic truth can be believed into being, but once it exists, it no longer relies on the believer.—Alice Bolin, Cutbank
