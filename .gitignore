@@ -1,7 +1,10 @@
 _site/
 .sass-cache/
+.jekyll-cache/
 .jekyll-metadata
 .DS_Store
 _tumblr_client*
 _secret.yml
 .env
+vendor/
+.bundle/

@@ -2,10 +2,10 @@ source "https://rubygems.org"
 
 # Run Jekyll with `bundle exec`: bundle exec jekyll serve
 
-# gem "jekyll", "~> 3.6.2"
+gem "jekyll"
 
 # Theme:
-gem "minima", "~> 2.0"
+gem "minima"
 
 # Development:
 gem "image_optim"
@@ -16,5 +16,8 @@ gem "github-pages", group: :jekyll_plugins
 
 # Plugins:
 group :jekyll_plugins do
-  gem 'jekyll-livereload'
+  gem "jekyll-livereload"
+  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
 end

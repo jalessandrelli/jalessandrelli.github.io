@@ -26,7 +26,6 @@
 
 .site-title {
   font-size: xx-large;
-  background-color: $background-color;
 
   &,
   &:visited {
@@ -38,7 +37,6 @@
 
   @include media-query($on-palm) {
     margin-left: 0;
-    // @include relative-font-size(1.25);
     font-size: x-large;
   }
 }
@@ -128,8 +126,6 @@
   }
 }
 
-
-
 /**
  * Site footer
  */
@@ -138,7 +134,7 @@
   background-color: green;
   position: relative;
   z-index: 1;
-	line-height: $base-line-height*1.1;
+  line-height: $base-line-height * 1.1;
 
   @include media-query($on-palm) {
     padding: 0;
@@ -165,26 +161,24 @@
 }
 
 .social-media-list {
-	display: flex;
-	li {
-		padding-right: $spacing-unit/2;
-	}
+  display: flex;
+  li {
+    padding-right: $spacing-unit/2;
+  }
   a {
     text-decoration: none;
     color: inherit;
 
-		&:hover {
-			color: hotpink;
-		}
+    &:hover {
+      color: hotpink;
+    }
   }
 
   @include media-query($on-palm) {
-    line-height: 1.8;
-		padding-bottom: $spacing-unit/2;
+    line-height: $base-line-height;
+    padding-bottom: $spacing-unit/2;
   }
 }
-
-
 
 /**
  * Page content
@@ -193,6 +187,7 @@
   flex: 1;
   display: flex;
   padding-bottom: 100px;
+  margin-top: $spacing-unit;
 }
 
 .page-heading {
@@ -205,7 +200,8 @@
 
   @include media-query($on-palm) {
     flex-direction: column;
-  };
+    align-items: center;
+  }
 }
 
 .post-list {
@@ -213,7 +209,7 @@
 
   > li {
     border-bottom: 10px solid $blue-color-dark;
-    background-color: transparentize($background-color, .2);
+    background-color: transparentize($background-color, 0.2);
     padding: 30px 280px 30px 0;
 
     > a {
@@ -227,19 +223,19 @@
     }
 
     p {
-			&,
-			a {
-				color: $text-color;
+      &,
+      a {
+        color: $text-color;
         font-size: medium;
-			}
+      }
 
-			a {
-				text-shadow: #FC0 1px 0 10px;
+      a {
+        text-shadow: #fc0 1px 0 10px;
 
-				&:hover {
-					color: limegreen;
-				}
-			}
+        &:hover {
+          color: limegreen;
+        }
+      }
     }
   }
 
@@ -250,15 +246,13 @@
       margin: $spacing-unit / 2;
       padding: 20px 0;
     }
-  };
+  }
 }
 
 .post-link {
   display: block;
   color: hotpink;
 }
-
-
 
 /**
  * Posts
@@ -272,7 +266,8 @@
   }
 
   @include media-query($on-palm) {
-    padding-left: 0;
+    padding: 25px;
+    align-self: flex-start;
   }
 }
 
@@ -307,7 +302,7 @@
     padding-left: $spacing-unit;
     align-items: center;
     justify-content: center;
-    padding-top: $spacing-unit;
+    padding-top: $spacing-unit / 2;
 
     // books gif, fonograf logo
     img {
@@ -318,10 +313,9 @@
       color: lawngreen;
       font-size: large;
       line-height: $base-line-height * 1.2;
-      margin: 0 auto;
+      margin: 0 auto $spacing-unit;
       padding-right: $spacing-unit * 6;
-      background-color: transparentize($background-color, .2);
-      margin-bottom: 10px;
+      background-color: transparentize($background-color, 0.2);
 
       a {
         text-decoration: none underline;
@@ -341,14 +335,12 @@
     flex-wrap: wrap;
 
     > a {
-      flex: 1;
-      min-width: 25vw;
-      max-width: 30vw;
+      flex: 1 1 50%;
       padding: $spacing-unit / 2;
 
       img {
         width: 100%;
-        height: auto;
+        height: 100%;
         border: 1px solid fuchsia;
       }
     }
@@ -386,8 +378,9 @@
     p:first-child {
       position: inherit;
       flex-direction: column;
+      align-items: center;
       margin-bottom: 1px;
-      // padding-left: $spacing-unit/2;
+      padding: 0 25px;
 
       > a {
         text-align: center;
@@ -413,7 +406,7 @@
       flex-wrap: nowrap;
 
       a:first-child {
-        margin-top: $spacing-unit;
+        margin-top: $spacing-unit / 2;
       }
 
       a {
@@ -428,8 +421,6 @@
     }
   }
 }
-
-
 
 //
 // List content:
@@ -449,9 +440,9 @@
   p {
     color: $green-color;
     font-size: large;
-    padding: 30px 150px 0 0;
+    padding: 15px 150px 0 0;
     line-height: 1.75;
-    background-color: transparentize($background-color, .2);
+    background-color: transparentize($background-color, 0.2);
     float: left;
   }
 
@@ -481,13 +472,13 @@
     }
 
     p {
-      background-color: transparentize($background-color, .2);
+      background-color: transparentize($background-color, 0.2);
     }
   }
 
   @include media-query($on-palm) {
-
-    p, ul {
+    p,
+    ul {
       width: auto;
       margin-bottom: 0;
     }
@@ -497,7 +488,6 @@
     }
 
     ul {
-
       li::before {
         margin-left: 0;
       }
@@ -513,8 +503,6 @@
   }
 }
 
-
-
 //
 // Press content: Press, Weblogging
 //
@@ -529,7 +517,7 @@
     font-size: small;
     font-style: italic;
     color: skyblue;
-    letter-spacing: .2em;
+    letter-spacing: 0.2em;
     padding-top: 20px;
   }
 
@@ -551,7 +539,7 @@
         float: right;
         padding-right: $spacing-unit;
       }
-    };
+    }
   }
 
   a {
