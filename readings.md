@@ -16,7 +16,6 @@ published: true
 
 - Sunday, 12/1 @ Powell's Books, Portland, OR, with Dao Strom and Jenny Chu
 
-
 **Deceased readings and events:**
 
 - ~~Thursday, 5/16 @ Literary Arts, Portland, OR, with Margot Kahn, A.M. Rosales and Ed Skoog, for the Portland Review Spring Reading Celebration.~~
