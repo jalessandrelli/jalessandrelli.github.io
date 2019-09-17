@@ -12,7 +12,7 @@ published: true
 
 - Friday, 9/13 @ [Montana Book Festival,](https://www.montanabookfestival.org/) Missoula, MT, with Hajara Quinn, Adrian Kien and Michael Earl Craig. ["Is This Surreal or For Real"]( https://montanabookfestival2019.sched.com/event/TP1d/poets-panel-is-this-surreal-or-for-real)panel and reading 
 
-- Friday, 11/8 @ [Open Books,](http://www.openpoetrybooks.com/events/) Seattle, WA, with Shelby Handler, Kary Wayson and Woogee Bae. 
+- Friday, 11/8 @ [Open Books,](http://www.openpoetrybooks.com/event/reading-with-jeff-alessandrelli-kary-wayson-shelby-handler-woogee-bae/) Seattle, WA, with Shelby Handler, Kary Wayson and Woogee Bae. 
 
 - Sunday, 12/1 @ Powell's Books, Portland, OR, with Dao Strom and Jenny Chu
 
