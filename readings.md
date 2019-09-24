@@ -10,11 +10,13 @@ published: true
 
 - Thursday, 9/12 @ KPBX 91.1, Spokane, WA, with Hajara Quinn, for the [Northwest Arts Review](https://www.spokanepublicradio.org/programs/northwest-arts-review)
 
-- Friday, 9/13 @ [Montana Book Festival,](https://www.montanabookfestival.org/) Missoula, MT, with Hajara Quinn, Adrian Kien and Michael Earl Craig. ["Is This Surreal or For Real"]( https://montanabookfestival2019.sched.com/event/TP1d/poets-panel-is-this-surreal-or-for-real)panel and reading 
+- Friday, 9/13 @ [Montana Book Festival,](https://www.montanabookfestival.org/) Missoula, MT, with Hajara Quinn, Adrian Kien and Michael Earl Craig. ["Is This Surreal or For Real"]( https://montanabookfestival2019.sched.com/event/TP1d/poets-panel-is-this-surreal-or-for-real)panel and reading. 
+
+- Saturday, 11/2 @ [Cardinal Club,](http://www.cardinalclubportland.com/home.html) Portland, OR, with Justin Rigamonti, Rachel Springer and Veronica Martin. _Fur Not Light_ book release reading/launch.
 
 - Friday, 11/8 @ [Open Books,](http://www.openpoetrybooks.com/event/reading-with-jeff-alessandrelli-kary-wayson-shelby-handler-woogee-bae/) Seattle, WA, with Shelby Handler, Kary Wayson and Woogee Bae. 
 
-- Sunday, 12/1 @ Powell's Books, Portland, OR, with Dao Strom and Jenny Chu
+- Sunday, 12/1 @ Powell's Books, Portland, OR, with Dao Strom and Jenny Chu.
 
 **Deceased readings and events:**
 
