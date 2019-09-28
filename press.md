@@ -6,12 +6,12 @@ order: 5
 image: /assets/press.gif
 published: true
 ---
-##### For *Fur Not Light* (Published by Burnside Review Press in October 2019):
+##### For *FUR NOT LIGHT* (Published by Burnside Review Press in October 2019):
 
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
 
-##### For *The Man on High: Essays on Skateboarding, Hip-Hop, Poetry and The Notorious B.I.G.* (Published in the U.K./U.S. by the UK press Eyewear in March 2018):
+##### For *THE MAN ON HIGH: ESSAYS ON SKATEBOARDING, HIP-HOP, POETRY AND THE NOTORIOUS B.I.G.* (Published in the U.K./U.S. by the UK press Eyewear in March 2018):
 
 [Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/Nonfiction-Bestsellers-January-through-March-2018.aspx)
 
@@ -46,7 +46,7 @@ In *THIS LAST TIME WILL BE THE FIRST*, Jeff Alessandrelli does a beautiful job u
 
 "Jeff Alessandrelli writes, ‘I am squinting into the faint radiance / of the sun, its light / trying to shine’—*This Last Time Will Be the First* is full of resolutely flickering light. These poems are at work with Emerson’s idea that, ‘A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.’ The mind at work in these poems is not little. It is expansive, it is growing, it is looking to love.”—Emily Pettit
 
-##### For *Erik Satie Watusies His Way Into Sound* (Poetic biography of the French avant-garde composer Erik Satie, published by Ravenna Press in October 2011):
+##### For *ERIK SATIE WATUSIES HIS WAY INTO SOUND* (Poetic biography of the French avant-garde composer Erik Satie, published by Ravenna Press in October 2011):
 
 A lot is packed into this slim volume of poems, but it doesn’t feel weighed down by its focused subject. It’s clear that a lot of research went into the book, but the poems sprawl, connect, and open up in ways that allow readers to enjoy them on their own. While the poems may be focused on Satie, they are ultimately ontological in nature—searching for answers and understanding but ultimately returning to that *nothing, nothing, nothing and nothing*.—[New Pages](https://www.newpages.com/item/3608-erik-satie-watusies-his-way-into-sound)
 
@@ -54,12 +54,12 @@ A lot is packed into this slim volume of poems, but it doesn’t feel weighed do
 
 Satie’s compositions transmit the sensation of speaking, and these poems are a great letter inside that speech, a musical philology, speech wrested from rests.—Arda Collins
 
-##### For *Don’t Let Me Forget to Feed the Sharks* (Chapbook published by the small press Poor Claudia in 2012):
+##### For *DON'T LET ME FORGET TO FEED THE SHARKS* (Chapbook published by Poor Claudia in 2012):
 
 If you’re into handsome books of fun poems, I highly recommend *Don’t Let Me Forget to Feed the Sharks*—[Lit Pub](https://thelitpub.com/theres-no-time-for-pleasantries-these-are-perilous-waters/)
 
 Personal letter from Nick Admussen about *Don’t Let Me Forget To Feed the Sharks*—[Horse Less Press](https://horselesspress.org/reviews-interviews/nick-admussen-to-jeff-alessandrelli/)
 
-##### For *People Are Places Are Places Are People* (Chapbook published by Imaginary Friend Press in 2013):
+##### For *PEOPLE ARE PLACES ARE PLACES ARE PEOPLE* (Chapbook published by Imaginary Friend Press in 2013):
 
 “I know that the sun is a byproduct/ of an infinitude of marigolds/and pure supple honey,/ but I don’t believe it,” Alessandrelli writes in “It’s the Things You Know that Are Hardest to Believe.” It’s as if a poetic truth can be believed into being, but once it exists, it no longer relies on the believer.—Alice Bolin, [Cutbank](http://www.cutbankonline.org/reviews/2013/03/cutbank-reviews-people-are-places-are-places-are-people-by-jeff-alessandrelli)
