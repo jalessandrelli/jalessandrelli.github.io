@@ -10,7 +10,7 @@ published: true
 
 - Saturday, 10/26 @ the [Airstream Poetry Festival](http://motherfoucaultsbookshop.com/event-info/airstream-poetry-festival-4th-annual/), Seaview, WA, with Rob Schlegel, Anis Mojgani and a host of other amazing readers. 
 
-- Saturday, 11/2 @ [Cardinal Club,](http://www.cardinalclubportland.com/home.html) Portland, OR, with Justin Rigamonti, John Beer, Rachel Springer and Veronica Martin. _Fur Not Light_ book release reading/launch.
+- Saturday, 11/2 @ [Cardinal Club,](https://www.facebook.com/events/415141739191569/) Portland, OR, with Justin Rigamonti, John Beer, Rachel Springer and Veronica Martin. _Fur Not Light_ book release reading/launch.
 
 - Friday, 11/8 @ [Open Books,](http://www.openpoetrybooks.com/event/reading-with-jeff-alessandrelli-kary-wayson-shelby-handler-woogee-bae/) Seattle, WA, with Shelby Handler, Kary Wayson and Woogee Bae. 
 
