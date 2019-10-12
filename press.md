@@ -24,17 +24,17 @@ published: true
 "In an era where the imagination is bent on nostalgia, the '90s is the number one fetish object, and events like the OJ Simpson trial and the LA Riots are being rehashed in Adidas track suits and retro band merch (I'm writing this in a Sade t-shirt I bought in a suburb of St. Louis over the summer), to the extent that Kendall Jenner tried to sell t-shirts with photos of Biggie on them with no permission from his estate and played naive when she got shut down, we need the complex sincerity of THE MAN ON HIGH. This is a rare example of a black musician who helped set the tonal landscape for an entire subculture actually being given credit and proper attention and love. You'll come away craving a skateboard and some headphones, and feeling Notorious." —Harmony Holiday
 
 
-##### For *THIS LAST TIME WILL BE THE FIRST* (Finalist for the 2012 Burnside Review Press Book Award, subsequently published by Burnside Review in March 2014):
+##### For *THIS LAST TIME WILL BE THE FIRST* (Finalist for the 2012 Burnside Review Press Book Award, subsequently publishe by Burnside Review in March 2014):
 
-“Immensely fresh and playful…rooted in a childlike antiquity.”—[Rain Taxi]() (print; Winter 2014 issue)
+Immensely fresh and playful…rooted in a childlike antiquity.—[Rain Taxi]() (print; Winter 2014 issue)
 
-The poems in *This Last Time Will Be The First* are imaginative, enigmatic and inviting.—[The Volta](https://thevoltablog.wordpress.com/2014/08/05/this-last-time-will-be-the-first-by-jeff-alessandrelli/)
+The poems in *THIS LAST TIME WILL BE THE FIRST* are imaginative, enigmatic and inviting.—[The Volta](https://thevoltablog.wordpress.com/2014/08/05/this-last-time-will-be-the-first-by-jeff-alessandrelli/)
 
-Although from section to section *This Last Time Will Be The First* shifts considerably in tone, intent and voice (the book’s Acknowledgments section lists two separate chapbook publications), it’s definitely a collection of poems doing something different, especially when compared to the work of a lot of other younger poets. Alessandrelli’s poetry has predecessors, certainly. But it bravely wears its influences on its sleeves, and somehow feels original as a result.—[Coldfront Mag](http://coldfrontmag.com/reviews/this-last-time-will-be-the-first-by-jeff-alessandrelli/)
+*THIS LAST TIME WILL BE THE FIRST*...is definitely a collection of poems doing something different, especially when compared to the work of a lot of other younger poets. Alessandrelli’s poetry has predecessors, certainly. But it bravely wears its influences on its sleeves, and somehow feels original as a result.—[Coldfront Mag](http://coldfrontmag.com/reviews/this-last-time-will-be-the-first-by-jeff-alessandrelli/)
 
-Alessandrelli’s poetry… provides its reader with an interesting thought angle, one contemporarily fresh. *This Last Time Will Be The First*… is a collection worth wrestling with. And checking out.—[The Rumpus](http://therumpus.net/2014/08/this-last-time-will-be-the-first-by-jeff-alessandrelli/)
+Alessandrelli’s poetry… provides its reader with an interesting thought angle, one contemporarily fresh. *THIS LAST TIME WILL BE THE FIRST*… is a collection worth wrestling with. And checking out.—[The Rumpus](http://therumpus.net/2014/08/this-last-time-will-be-the-first-by-jeff-alessandrelli/)
 
-*This Last Time Will Be The First* deserves a moment in the spotlight, and a lifetime of reading. So, thank you Jeff Alessandrelli, for your words, and for making us feel like we’re not alone in our thoughts.—[The Poetry Question](https://thepoetryquestion.com/2014/06/10/review-jeff-alessandrelli-this-last-time-will-be-the-first/)
+*THIS LAST TIME WILL BE THE FIRST* deserves a moment in the spotlight, and a lifetime of reading. So, thank you Jeff Alessandrelli, for your words, and for making us feel like we’re not alone in our thoughts.—[The Poetry Question](https://thepoetryquestion.com/2014/06/10/review-jeff-alessandrelli-this-last-time-will-be-the-first/)
 
 *THIS LAST TIME WILL BE THE FIRST* is an entertaining, insightful book of poems that refuses to settle and embodies a restless, self-conscious pursuit of how a poem both knows and doesn’t know.—[American Microreviews](http://www.americanmicroreviews.com/this-last-time-will-be-the-first-jeff-alessandrelli/)
 
@@ -42,7 +42,7 @@ Alessandrelli’s poetry… provides its reader with an interesting thought angl
 
 [Out of Our Minds _THIS LAST TIME WILL BE THE FIRST_ Radio show interview with your boi J.P. Dancing Bear](http://jp-dancingbear.squarespace.com/outofourminds/2015/3/1/out-of-our-minds-wguest-jeff-alessandrelli) 
 
-In *THIS LAST TIME WILL BE THE FIRST*, Jeff Alessandrelli does a beautiful job using others’ lines and styles as a jumping-off point for his own poems. And though they are homages, they are always totally surprising, and totally his. They are not a game. Alessandrelli is a real human being, unlike the authors of some other poetry books you might be considering right now. Put them down. They do not, underneath their stylistic pyrotechnics, have a beating heart.”—Matthew Rohrer
+"In *THIS LAST TIME WILL BE THE FIRST*, Jeff Alessandrelli does a beautiful job using others’ lines and styles as a jumping-off point for his own poems. And though they are homages, they are always totally surprising, and totally his. They are not a game. Alessandrelli is a real human being, unlike the authors of some other poetry books you might be considering right now. Put them down. They do not, underneath their stylistic pyrotechnics, have a beating heart.”—Matthew Rohrer
 
 "Jeff Alessandrelli writes, ‘I am squinting into the faint radiance / of the sun, its light / trying to shine’—*This Last Time Will Be the First* is full of resolutely flickering light. These poems are at work with Emerson’s idea that, ‘A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.’ The mind at work in these poems is not little. It is expansive, it is growing, it is looking to love.”—Emily Pettit
 
@@ -52,7 +52,7 @@ A lot is packed into this slim volume of poems, but it doesn’t feel weighed do
 
 …\[W\]e can consider the identity manipulation in [*Erik Satie Watusies His Way Into Sound*](http://www.ravennapress.com/books/title.php?tid=10029) a love letter between two artists. Of course, “We love those best who we fleetingly / recognize and can just as quickly forget”, so it should come as no surprise that after recognizing Satie in himself and himself in Satie, Alessandrelli demands that we “Forget forget Erik Satie.” Once we forget him, he “is nowhere / to be found,” but we can take comfort in the fact that “Someone we can’t remember // once played such haunting music / on a broken piano // he dreamed was an” author writing poems about Erik Satie and what it means to be Jeff Alessandrelli.—[HTML Giant](http://htmlgiant.com/reviews/erik-satie-watusies-his-way-into-sound/)
 
-Satie’s compositions transmit the sensation of speaking, and these poems are a great letter inside that speech, a musical philology, speech wrested from rests.—Arda Collins
+"Satie’s compositions transmit the sensation of speaking, and these poems are a great letter inside that speech, a musical philology, speech wrested from rests."—Arda Collins
 
 ##### For *DON'T LET ME FORGET TO FEED THE SHARKS* (Chapbook published by Poor Claudia in 2012):
 
@@ -64,4 +64,4 @@ Personal letter from Nick Admussen about *Don’t Let Me Forget To Feed the Shar
 
 “I know that the sun is a byproduct/ of an infinitude of marigolds/and pure supple honey,/ but I don’t believe it,” Alessandrelli writes in “It’s the Things You Know that Are Hardest to Believe.” It’s as if a poetic truth can be believed into being, but once it exists, it no longer relies on the believer.—Alice Bolin, [Cutbank](http://www.cutbankonline.org/reviews/2013/03/cutbank-reviews-people-are-places-are-places-are-people-by-jeff-alessandrelli)
 
-Knowing exactly what you mean is a sure sign that your poem is bad. It is hard to know exactly what Jeff Alessandrelli’s poems mean, and that’s what makes them waver and shimmer, like the air above a fire. They are approximate, like feelings. If you have tried and failed to describe your own experience to yourself, you know what it’s like to be in an Alessandrelli poem, a place where you can know something but not believe it, and vice versa; a place where understanding is not deeper knowledge but an alternative kind of access…Jeff Alessandrelli is an experimentalist: he writes poems not to tell us what he knows, but to find out.--Elisa Gabbert 
+"Knowing exactly what you mean is a sure sign that your poem is bad. It is hard to know exactly what Jeff Alessandrelli’s poems mean, and that’s what makes them waver and shimmer, like the air above a fire. They are approximate, like feelings. If you have tried and failed to describe your own experience to yourself, you know what it’s like to be in an Alessandrelli poem, a place where you can know something but not believe it, and vice versa; a place where understanding is not deeper knowledge but an alternative kind of access…Jeff Alessandrelli is an experimentalist: he writes poems not to tell us what he knows, but to find out."—Elisa Gabbert
