@@ -10,6 +10,7 @@ published: true
 
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
+"The titles in Jeff Alessandrelli’s *Fur Not Light* – “Be Your Own Hitman,” say, or “Nothing of the Month Club” are grimly funny indicators of what’s to come. These are poems about how to downsize hope, that most human of emotions. “We hope to resign ourselves to hope,” Alessandrelli writes, but, of course, we never quite succeed. Hope and resignation tussle endlessly here like a Buddhist version of Laurel and Hardy. In *Fur Not Light* wisdom has rhythm." –Rae Armantrout 
 
 ##### For *THE MAN ON HIGH: ESSAYS ON SKATEBOARDING, HIP-HOP, POETRY AND THE NOTORIOUS B.I.G.* (Published in the U.K./U.S. by the UK press Eyewear in March 2018):
 
@@ -19,14 +20,14 @@ published: true
 
 [Wisconsin Public Radio, KUWS 91.3--The Walt Dizzo Show--The Man on High radio interview](https://drive.google.com/file/d/1pCBAMIUFh3fI7US9xmaJOsgouyCyUIAb/view)
 
-"A refreshingly heartfelt and multivalent treatise on influence, inspiration, and individuality, Alessandrelli's THE MAN ON HIGH waxes and melds in tribute to a true cultural icon and iconoclast, the B.I.G., along the way reconsidering the nature of the many frames that give us faith amid an era of 'mere numerical arbitrariness.'"—Blake Butler
+"A refreshingly heartfelt and multivalent treatise on influence, inspiration, and individuality, Alessandrelli's *The Man on High* waxes and melds in tribute to a true cultural icon and iconoclast, the B.I.G., along the way reconsidering the nature of the many frames that give us faith amid an era of 'mere numerical arbitrariness.'"—Blake Butler
 
-"In an era where the imagination is bent on nostalgia, the '90s is the number one fetish object, and events like the OJ Simpson trial and the LA Riots are being rehashed in Adidas track suits and retro band merch (I'm writing this in a Sade t-shirt I bought in a suburb of St. Louis over the summer), to the extent that Kendall Jenner tried to sell t-shirts with photos of Biggie on them with no permission from his estate and played naive when she got shut down, we need the complex sincerity of THE MAN ON HIGH. This is a rare example of a black musician who helped set the tonal landscape for an entire subculture actually being given credit and proper attention and love. You'll come away craving a skateboard and some headphones, and feeling Notorious." —Harmony Holiday
+"In an era where the imagination is bent on nostalgia, the '90s is the number one fetish object, and events like the OJ Simpson trial and the LA Riots are being rehashed in Adidas track suits and retro band merch (I'm writing this in a Sade t-shirt I bought in a suburb of St. Louis over the summer), to the extent that Kendall Jenner tried to sell t-shirts with photos of Biggie on them with no permission from his estate and played naive when she got shut down, we need the complex sincerity of *The Man on High*. This is a rare example of a black musician who helped set the tonal landscape for an entire subculture actually being given credit and proper attention and love. You'll come away craving a skateboard and some headphones, and feeling Notorious." —Harmony Holiday
 
 
-##### For *THIS LAST TIME WILL BE THE FIRST* (Finalist for the 2012 Burnside Review Press Book Award, subsequently publishe by Burnside Review in March 2014):
+##### For *THIS LAST TIME WILL BE THE FIRST* (Finalist for the 2012 Burnside Review Press Book Award, subsequently published by Burnside Review in March 2014):
 
-Immensely fresh and playful…rooted in a childlike antiquity.—[Rain Taxi]() (print; Winter 2014 issue)
+Immensely fresh and playful…rooted in a childlike antiquity.—[Rain Taxi](http://www.raintaxi.com/) (print; Winter 2014 issue)
 
 The poems in *THIS LAST TIME WILL BE THE FIRST* are imaginative, enigmatic and inviting.—[The Volta](https://thevoltablog.wordpress.com/2014/08/05/this-last-time-will-be-the-first-by-jeff-alessandrelli/)
 
@@ -43,8 +44,6 @@ Alessandrelli’s poetry… provides its reader with an interesting thought angl
 [Out of Our Minds _THIS LAST TIME WILL BE THE FIRST_ Radio show interview with your boi J.P. Dancing Bear](http://jp-dancingbear.squarespace.com/outofourminds/2015/3/1/out-of-our-minds-wguest-jeff-alessandrelli) 
 
 "In *THIS LAST TIME WILL BE THE FIRST*, Jeff Alessandrelli does a beautiful job using others’ lines and styles as a jumping-off point for his own poems. And though they are homages, they are always totally surprising, and totally his. They are not a game. Alessandrelli is a real human being, unlike the authors of some other poetry books you might be considering right now. Put them down. They do not, underneath their stylistic pyrotechnics, have a beating heart.”—Matthew Rohrer
-
-"Jeff Alessandrelli writes, ‘I am squinting into the faint radiance / of the sun, its light / trying to shine’—*This Last Time Will Be the First* is full of resolutely flickering light. These poems are at work with Emerson’s idea that, ‘A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.’ The mind at work in these poems is not little. It is expansive, it is growing, it is looking to love.”—Emily Pettit
 
 ##### For *ERIK SATIE WATUSIES HIS WAY INTO SOUND* (Poetic biography of the French avant-garde composer Erik Satie, published by Ravenna Press in October 2011):
 
