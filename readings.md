@@ -8,13 +8,19 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Saturday, 10/26 @ the [Airstream Poetry Festival](http://motherfoucaultsbookshop.com/event-info/airstream-poetry-festival-4th-annual/), Seaview, WA, with Rob Schlegel, Anis Mojgani and a host of other amazing readers. 
+- Saturday, 10/26 @ the [Airstream Poetry Festival](http://motherfoucaultsbookshop.com/event-info/airstream-poetry-festival-4th-annual/), Seaview, WA, with Rob Schlegel, Anis Mojgani and a host of other amazing readers 
 
-- Saturday, 11/2 @ [Cardinal Club,](https://www.facebook.com/events/415141739191569/) Portland, OR, with Justin Rigamonti, John Beer, Rachel Springer and Veronica Martin. _Fur Not Light_ book release reading/launch.
+- Saturday, 11/2 @ [Cardinal Club,](https://www.facebook.com/events/415141739191569/) Portland, OR, with Justin Rigamonti, John Beer, Rachel Springer and Veronica Martin. _Fur Not Light_ book release reading/launch
 
-- Friday, 11/8 @ [Open Books,](http://www.openpoetrybooks.com/event/reading-with-jeff-alessandrelli-kary-wayson-shelby-handler-woogee-bae/) Seattle, WA, with Shelby Handler, Kary Wayson and Woogee Bae. 
+- Friday, 11/8 @ [Open Books,](http://www.openpoetrybooks.com/event/reading-with-jeff-alessandrelli-kary-wayson-shelby-handler-woogee-bae/) Seattle, WA, with Shelby Handler, Kary Wayson and Woogee Bae 
 
-- Sunday, 12/1 @ Powell's Books, Portland, OR, with Dao Strom.
+- Sunday, 12/1 @ Powell's Books, Portland, OR, with Dao Strom
+
+- Wednesday, 4/1- Sunday, 4/5 @ [Mission Creek Festival](http://missioncreekfestival.com/), Iowa City, IA, with a whole medley of other great writers/musicians/publishers
+
+- Thursday, 4/23 @ the University of Nebraska-Lincoln, Lincoln, NE, with Christina Harding Thornton
+
+- Friday, 4/24 @ Omaha, NE (details TBA) 
 
 **Deceased readings and events:**
 
