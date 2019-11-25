@@ -8,6 +8,8 @@ published: true
 ---
 ##### For *FUR NOT LIGHT* (Published by Burnside Review Press in October 2019):
 
+*Fur Not Light* is a deeply funny book, with details and stretches that breeze by with set up/punchline directness. In between those lighter moments...are passages that are unshakably beautiful.--[Portland Mercury](https://www.portlandmercury.com/books/2019/11/21/27510813/fur-not-light-poetry-review-jeff-alessandrellis-latest-work-is-perfectly-balanced-and-deeply-funny)  
+
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
 "The titles in Jeff Alessandrelli’s *Fur Not Light* – “Be Your Own Hitman,” say, or “Nothing of the Month Club” are grimly funny indicators of what’s to come. These are poems about how to downsize hope, that most human of emotions. “We hope to resign ourselves to hope,” Alessandrelli writes, but, of course, we never quite succeed. Hope and resignation tussle endlessly here like a Buddhist version of Laurel and Hardy. In *Fur Not Light* wisdom has rhythm." –Rae Armantrout 
