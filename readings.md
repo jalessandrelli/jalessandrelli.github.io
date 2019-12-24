@@ -8,13 +8,9 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Saturday, 10/26 @ the [Airstream Poetry Festival](http://motherfoucaultsbookshop.com/event-info/airstream-poetry-festival-4th-annual/), Seaview, WA, with Rob Schlegel, Anis Mojgani and a host of other amazing readers 
+- Saturday, 1/25 @ [Union Hall](https://www.unionhalldenver.com/), Denver, CO, with Eric Baus, Kelly Krumrie, Joanna Howard and Ella Longpre 
 
-- Saturday, 11/2 @ [Cardinal Club,](https://www.facebook.com/events/415141739191569/) Portland, OR, with Justin Rigamonti, John Beer, Rachel Springer and Veronica Martin. _Fur Not Light_ book release reading/launch
-
-- Friday, 11/8 @ [Open Books,](http://www.openpoetrybooks.com/event/reading-with-jeff-alessandrelli-kary-wayson-shelby-handler-woogee-bae/) Seattle, WA, with Shelby Handler, Kary Wayson and Woogee Bae 
-
-- Sunday, 12/1 @ Powell's Books, Portland, OR, with Dao Strom
+- Thursday, 2/20 @ [The Museum of Russian Art,](https://tmora.org/) Minneapolis, MN, with Mary Austin Speaker and more TBA. Hosted by [Rain Taxi Review of Books](http://www.raintaxi.com/).  
 
 - Wednesday, 4/1- Sunday, 4/5 @ [Mission Creek Festival](http://missioncreekfestival.com/), Iowa City, IA, with a whole medley of other great writers/musicians/publishers
 
@@ -23,6 +19,14 @@ published: true
 - Friday, 4/24 @ Omaha, NE (details TBA) 
 
 **Deceased readings and events:**
+
+- ~~Sunday, 12/1 @ Powell's Books, Portland, OR, with Dao Strom and Danielle Frandina~~ 
+
+- ~~Friday, 11/8 @ [Open Books,] Seattle, WA, with Shelby Handler, Kary Wayson and Woogee Bae~~ 
+
+- ~~Saturday, 11/2 @ [Cardinal Club,] Portland, OR, with Justin Rigamonti, John Beer, Rachel Springer and Veronica Martin. _Fur Not Light_ book release reading/launch~~
+
+- ~~Saturday, 10/26 @ the [Airstream Poetry Festival], Seaview, WA, with Rob Schlegel, Anis Mojgani and a host of other amazing readers~~
 
 - ~~Friday, 9/13 @ Montana Book Festival, Missoula, MT, with Hajara Quinn, Adrian Kien and Michael Earl Craig. "Is This Surreal or For Real" panel and reading.~~ 
 
