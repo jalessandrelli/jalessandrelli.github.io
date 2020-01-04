@@ -12,6 +12,8 @@ published: true
 
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
+[Fur Not Light interview with visual artist Chyrum Lambert @ Full Stop](http://www.full-stop.net/2020/01/02/interviews/jeff-alessandrelli/jeff-alessandrelli-chyrum-lambert/) 
+
 "The titles in Jeff Alessandrelli’s *Fur Not Light* – “Be Your Own Hitman,” say, or “Nothing of the Month Club” are grimly funny indicators of what’s to come. These are poems about how to downsize hope, that most human of emotions. “We hope to resign ourselves to hope,” Alessandrelli writes, but, of course, we never quite succeed. Hope and resignation tussle endlessly here like a Buddhist version of Laurel and Hardy. In *Fur Not Light* wisdom has rhythm." –Rae Armantrout 
 
 ##### For *THE MAN ON HIGH: ESSAYS ON SKATEBOARDING, HIP-HOP, POETRY AND THE NOTORIOUS B.I.G.* (Published in the U.K./U.S. by the UK press Eyewear in March 2018):
