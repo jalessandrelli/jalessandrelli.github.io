@@ -12,7 +12,7 @@ published: true
 
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
-[Fur Not Light interview with visual artist Chyrum Lambert @ Full Stop](http://www.full-stop.net/2020/01/02/interviews/jeff-alessandrelli/jeff-alessandrelli-chyrum-lambert/) 
+[*Fur Not Light* interview with visual artist Chyrum Lambert @ Full Stop](http://www.full-stop.net/2020/01/02/interviews/jeff-alessandrelli/jeff-alessandrelli-chyrum-lambert/) 
 
 "The titles in Jeff Alessandrelli’s *Fur Not Light* – “Be Your Own Hitman,” say, or “Nothing of the Month Club” are grimly funny indicators of what’s to come. These are poems about how to downsize hope, that most human of emotions. “We hope to resign ourselves to hope,” Alessandrelli writes, but, of course, we never quite succeed. Hope and resignation tussle endlessly here like a Buddhist version of Laurel and Hardy. In *Fur Not Light* wisdom has rhythm." –Rae Armantrout 
 
@@ -22,7 +22,7 @@ published: true
 
 [Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--July-September 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/Nonfiction-Bestsellers-July-through-September-2018.aspx)  
 
-[Wisconsin Public Radio, KUWS 91.3--The Walt Dizzo Show--The Man on High radio interview](https://drive.google.com/file/d/1pCBAMIUFh3fI7US9xmaJOsgouyCyUIAb/view)
+[Wisconsin Public Radio, KUWS 91.3--The Walt Dizzo Show--*The Man on High* radio interview](https://drive.google.com/file/d/1pCBAMIUFh3fI7US9xmaJOsgouyCyUIAb/view)
 
 "A refreshingly heartfelt and multivalent treatise on influence, inspiration, and individuality, Alessandrelli's *The Man on High* waxes and melds in tribute to a true cultural icon and iconoclast, the B.I.G., along the way reconsidering the nature of the many frames that give us faith amid an era of 'mere numerical arbitrariness.'"—Blake Butler
 
