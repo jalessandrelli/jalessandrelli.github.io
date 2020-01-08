@@ -8,9 +8,9 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Saturday, 1/25 @ [Union Hall](https://www.unionhalldenver.com/), Denver, CO, with Eric Baus, Kelly Krumrie, Joanna Howard and Ella Longpre 
+- Saturday, 1/25 @ [Union Hall](https://www.unionhalldenver.com/events/2020/1/25/poetry-reading-jeff-alessandrelli-eric-baus-joanna-howard-ella-longpre-and-kelly-krumrie), Denver, CO, with Eric Baus, Kelly Krumrie, Joanna Howard and Ella Longpre
 
-- Thursday, 2/20 @ [The Museum of Russian Art,](https://tmora.org/) Minneapolis, MN, with Mary Austin Speaker and more TBA. Hosted by [Rain Taxi Review of Books](http://www.raintaxi.com/).  
+- Thursday, 2/20 @ [The Museum of Russian Art,](https://tmora.org/) Minneapolis, MN, with other readers TBA. Hosted by [Rain Taxi Review of Books](http://www.raintaxi.com/).  
 
 - Wednesday, 4/1- Sunday, 4/5 @ [Mission Creek Festival](http://missioncreekfestival.com/), Iowa City, IA, with a whole medley of other great writers/musicians/publishers
 
