@@ -18,6 +18,11 @@ published: true
 
 - Friday, 4/24 @ Omaha, NE (details TBA) 
 
+- Friday, 7/1 @ the [Studio One Reading Series](https://studioonereadingseries.blogspot.com/), Oakland, CA, with other readers TBA
+
+- Monday, 7/22 @ the [Sacramento Poetry Center](http://www.sacramentopoetrycenter.com/), Sacramento, CA, with other readers TBA 
+
+
 **Deceased readings and events:**
 
 - ~~Sunday, 12/1/19 @ Powell's Books, Portland, OR, with Dao Strom and Danielle Frandina~~ 
