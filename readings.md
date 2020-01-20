@@ -10,7 +10,7 @@ published: true
 
 - Saturday, 1/25 @ [Union Hall](https://www.unionhalldenver.com/events/2020/1/25/poetry-reading-jeff-alessandrelli-eric-baus-joanna-howard-ella-longpre-and-kelly-krumrie), Denver, CO, with Eric Baus, Kelly Krumrie, Joanna Howard and Ella Longpre
 
-- Thursday, 2/20 @ [The Museum of Russian Art,](https://tmora.org/) Minneapolis, MN, with other readers TBA. Hosted by [Rain Taxi Review of Books](http://www.raintaxi.com/).  
+- Thursday, 2/20 @ [The Museum of Russian Art,](https://tmora.org/) Minneapolis, MN, with Paula Cisewski. Hosted by [Rain Taxi Review of Books](https://www.raintaxi.com/jeff-alessandrelli-and-paula-cisewski/).  
 
 - Wednesday, 4/1- Sunday, 4/5 @ [Mission Creek Festival](http://missioncreekfestival.com/), Iowa City, IA, with a whole medley of other great writers/musicians/publishers
 
@@ -18,9 +18,9 @@ published: true
 
 - Friday, 4/24 @ Omaha, NE (details TBA) 
 
-- Friday, 7/1 @ the [Studio One Reading Series](https://studioonereadingseries.blogspot.com/), Oakland, CA, with other readers TBA
+- Friday, 6/5 @ the [Studio One Reading Series](https://studioonereadingseries.blogspot.com/), Oakland, CA, with other readers TBA
 
-- Monday, 7/22 @ the [Sacramento Poetry Center](http://www.sacramentopoetrycenter.com/), Sacramento, CA, with other readers TBA 
+- Monday, 6/22 @ the [Sacramento Poetry Center](http://www.sacramentopoetrycenter.com/), Sacramento, CA, with other readers TBA 
 
 
 **Deceased readings and events:**
