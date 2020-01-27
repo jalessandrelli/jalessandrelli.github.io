@@ -10,6 +10,8 @@ published: true
 
 *Fur Not Light* is a deeply funny book, with details and stretches that breeze by with set up/punchline directness. In between those lighter moments...are passages that are unshakably beautiful.--[Portland Mercury](https://www.portlandmercury.com/books/2019/11/21/27510813/fur-not-light-poetry-review-jeff-alessandrellis-latest-work-is-perfectly-balanced-and-deeply-funny)  
 
+[*Fur Not Light* In Their Own Words poem/essay on "Be Yer Own Hitman (Deathsounds/Lovesongs)" at the Poetry Society of America](https://poetrysociety.org/features/in-their-own-words/jeff-alessandrelli-on-be-yer-own-hitman-deathsounds-lovesongs) 
+
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
 [*Fur Not Light* interview with visual artist Chyrum Lambert @ Full Stop](http://www.full-stop.net/2020/01/02/interviews/jeff-alessandrelli/jeff-alessandrelli-chyrum-lambert/) 
