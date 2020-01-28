@@ -8,6 +8,7 @@ published: true
 ---
 Essays by me have appeared at *The American Poetry Review*, *The Millions*, *Denver Quarterly*, *Pleaides*, *Lit Hub*, *Poetry Northwest*, *Puerto del Sol*, and *Full Stop*. A few online can be found at:
 
+- [Poetry Northwest](https://www.poetrynw.org/like-a-veil-on-humanness-shame-and---mark-baumer/) 
 - [The Spectacle](https://thespectacle.staging.wpengine.com/?p=1069) 
 - [Lit Hub](http://lithub.com/never-meet-your-anti-heroes-my-correspondence-with-bill-knott/)
 - [Entropy](https://entropymag.org/i-dont-know-what-theyre-talking-about-but-the-music-is-good-by-jeff-alessandrelli/)
