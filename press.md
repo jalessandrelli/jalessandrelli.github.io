@@ -14,6 +14,8 @@ published: true
 
 ["Hope"--*Fur Not Light* at Verse Daily](http://www.versedaily.org/2020/hope.shtml)  
 
+["I'm writing daffodils again"--*Fur Not Light* interview at The Adroit Journal](https://theadroitjournal.org/2020/02/17/im-writing-daffodils-again-a-conversation-with-jeff-alessandrelli/) 
+
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
 [*Fur Not Light* interview with visual artist Chyrum Lambert @ Full Stop](http://www.full-stop.net/2020/01/02/interviews/jeff-alessandrelli/jeff-alessandrelli-chyrum-lambert/) 
