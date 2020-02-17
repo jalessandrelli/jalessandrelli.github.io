@@ -12,6 +12,8 @@ published: true
 
 [*Fur Not Light* In Their Own Words poem/essay on "Be Yer Own Hitman (Deathsounds/Lovesongs)" at the Poetry Society of America](https://poetrysociety.org/features/in-their-own-words/jeff-alessandrelli-on-be-yer-own-hitman-deathsounds-lovesongs) 
 
+["Hope"--*Fur Not Light* at Verse Daily](http://www.versedaily.org/2020/hope.shtml)  
+
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
 [*Fur Not Light* interview with visual artist Chyrum Lambert @ Full Stop](http://www.full-stop.net/2020/01/02/interviews/jeff-alessandrelli/jeff-alessandrelli-chyrum-lambert/) 
