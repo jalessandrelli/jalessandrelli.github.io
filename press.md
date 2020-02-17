@@ -14,6 +14,8 @@ published: true
 
 ["Hope"--*Fur Not Light* at Verse Daily](http://www.versedaily.org/2020/hope.shtml)  
 
+*Fur Not Light*—a title borrowed from Russian Absurdist Daanil Kharms—contains, generally speaking, two types of poems, as well as some notable stylistic choices with titling...the collection doesn’t lose its cohesion by taking a few experimental risks—the content is strong enough by itself that the devices, when they do show up, demand an extra close lens.--[Entropy](https://entropymag.org/fur-not-light-jeff-alessandrelli/)
+
 ["I'm writing daffodils again"--*Fur Not Light* interview at The Adroit Journal](https://theadroitjournal.org/2020/02/17/im-writing-daffodils-again-a-conversation-with-jeff-alessandrelli/) 
 
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
