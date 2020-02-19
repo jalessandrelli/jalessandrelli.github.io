@@ -14,7 +14,7 @@ published: true
 
 - Wednesday, 4/1- Sunday, 4/5 @ [Mission Creek Festival](http://missioncreekfestival.com/), Iowa City, IA, with a whole medley of other great writers/musicians/publishers
 
-- Thursday, 4/23 @ the University of Nebraska-Lincoln, Lincoln, NE, with Christina Harding Thornton and Jim Reese.
+- Thursday, 4/23 @ the University of Nebraska-Lincoln, Lincoln, NE, with Jim Reese.
 
 - Friday, 4/24 @ Omaha, NE (details TBA) 
 
