@@ -18,6 +18,8 @@ published: true
 
 ["I'm writing daffodils again"--*Fur Not Light* interview at The Adroit Journal](https://theadroitjournal.org/2020/02/17/im-writing-daffodils-again-a-conversation-with-jeff-alessandrelli/) 
 
+*Fur Not Light* is a collection that acknowledges the obsession with, and the idolization and inevitable destruction of, the self. Jeff Alessandrelli explores the minor, inconsequential actions and thoughts of mundane days, and through describing artistic and awfully detailed events, he makes those thoughts and actions have a lasting impact.--[Hong Kong Review of Books](https://hkrbooks.com/2020/03/26/fur-not-light/)
+
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
 [*Fur Not Light* interview with visual artist Chyrum Lambert @ Full Stop](http://www.full-stop.net/2020/01/02/interviews/jeff-alessandrelli/jeff-alessandrelli-chyrum-lambert/) 
