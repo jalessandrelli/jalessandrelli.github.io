@@ -8,22 +8,16 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Thursday, 2/20 @ [The Museum of Russian Art,](https://tmora.org/) Minneapolis, MN, with Paula Cisewski. Hosted by [Rain Taxi Review of Books](https://www.raintaxi.com/jeff-alessandrelli-and-paula-cisewski/).  
-
-- Saturday, 3/7 @ [La Villita Cafe,](https://www.facebook.com/events/480432339302325/) San Antonio, TX, with Annelyse Gelman, Sommer Browning, Johannes Göranssen and more/more/more. AWP. 
-
-- Wednesday, 4/1- Sunday, 4/5 @ [Mission Creek Festival](http://missioncreekfestival.com/), Iowa City, IA, with a whole medley of other great writers/musicians/publishers
-
-- Thursday, 4/23 @ the University of Nebraska-Lincoln, Lincoln, NE, with Jim Reese.
-
-- Friday, 4/24 @ Omaha, NE (details TBA) 
-
 - Friday, 6/5 @ the [Studio One Reading Series](https://studioonereadingseries.blogspot.com/), Oakland, CA, with other readers TBA
 
 - Monday, 6/22 @ the [Sacramento Poetry Center](http://www.sacramentopoetrycenter.com/), Sacramento, CA, with other readers TBA 
 
+- Thursday, 9/17- Friday, 9/18 @ [Mission Creek Festival](http://missioncreekfestival.com/), Iowa City, IA, with a whole medley of other great writers/musicians/publishers
+
 
 **Deceased readings and events:**
+
+- ~~Thursday, 2/20 @ The Museum of Russian Art, Minneapolis, MN, with Paula Cisewski. Hosted by Rain Taxi Review of Books.~~ 
 
 - ~~Saturday, 1/25 @ Union Hall, Denver, CO, with Eric Baus, Kelly Krumrie, Joanna Howard and Ella Longpre~~
 
