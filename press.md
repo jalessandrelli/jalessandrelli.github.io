@@ -16,6 +16,8 @@ published: true
 
 *Fur Not Light*—a title borrowed from Russian Absurdist Daanil Kharms—contains, generally speaking, two types of poems, as well as some notable stylistic choices with titling...the collection doesn’t lose its cohesion by taking a few experimental risks—the content is strong enough by itself that the devices, when they do show up, demand an extra close lens.--[Entropy](https://entropymag.org/fur-not-light-jeff-alessandrelli/)
 
+*Fur Not Light*, Jeff Alessandrelli’s second book with Burnside Review Press, has had me wandering its psychogeography for a week. First off, to be clear, *Fur Not Light* led me to flip Guy Debord’s idea of pyschogeography on its head. Rather than “the study of the precise laws and specific effects of the geographical environment, consciously organized or not, on the emotions and behavior of individuals,” in Alessandrelli’s psychogeography, an individual’s thoughts, emotions, and behavior create imaginative geographic space.--Michael Sikkema at [Heavy Feather Review](https://heavyfeatherreview.org/2020/04/29/fur/).
+
 ["I'm writing daffodils again"--*Fur Not Light* interview at The Adroit Journal](https://theadroitjournal.org/2020/02/17/im-writing-daffodils-again-a-conversation-with-jeff-alessandrelli/) 
 
 *Fur Not Light* is a collection that acknowledges the obsession with, and the idolization and inevitable destruction of, the self. Jeff Alessandrelli explores the minor, inconsequential actions and thoughts of mundane days, and through describing artistic and awfully detailed events, he makes those thoughts and actions have a lasting impact.--[Hong Kong Review of Books](https://hkrbooks.com/2020/03/26/fur-not-light/)
