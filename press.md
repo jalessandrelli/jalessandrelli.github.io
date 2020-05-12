@@ -26,6 +26,8 @@ published: true
 
 [Spokane Public Radio, KPBX 91.1--The Northwest Arts Review (with Harper Quinn)](https://www.spokanepublicradio.org/post/conversation-jeff-alessandrelli-and-hajara-quinn) 
 
+Learning about the past cannot be mechanical, undertaken for the sake of finite knowledge, but the virtue of learning about one’s self lies in the possibility to analyze the ideas, concepts, and examples from the past in order to improve the state of the things of the present. This idea liberates Alessandrelli’s intellectual strivings and allows him to redirect his work, becoming a representative of a new theoretical approach to poetry.--[*Fur Not Light* review at GASHER](https://www.gasherjournal.com/single-post/2020/05/01/REVIEW-Fur-Not-Light-by-Jeff-Alessandrelli) 
+
 [*Fur Not Light* interview with visual artist Chyrum Lambert @ Full Stop](http://www.full-stop.net/2020/01/02/interviews/jeff-alessandrelli/jeff-alessandrelli-chyrum-lambert/) 
 
 "The titles in Jeff Alessandrelli’s *Fur Not Light* – “Be Your Own Hitman,” say, or “Nothing of the Month Club” are grimly funny indicators of what’s to come. These are poems about how to downsize hope, that most human of emotions. “We hope to resign ourselves to hope,” Alessandrelli writes, but, of course, we never quite succeed. Hope and resignation tussle endlessly here like a Buddhist version of Laurel and Hardy. In *Fur Not Light* wisdom has rhythm." –Rae Armantrout 
