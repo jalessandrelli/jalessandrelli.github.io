@@ -12,6 +12,8 @@ published: true
 
 [*Fur Not Light* In Their Own Words poem/essay on "Be Yer Own Hitman (Deathsounds/Lovesongs)" at the Poetry Society of America](https://poetrysociety.org/features/in-their-own-words/jeff-alessandrelli-on-be-yer-own-hitman-deathsounds-lovesongs) 
 
+The importance of *Fur Not Light* lies in its multiple concerns and varied perspectives that prove life is larger than any one thing, even if one exists as a person. Not only is this book necessary, but it is also kind to its reader, in that it provides the tools with which to enter the poems. *Fur Not Light* is an example of radical humility, and its widespread concerns for all living life require a levity of ego. Any work of creative writing could be said to chip away at the ego, but few, and I include Jeff Alessandrelli in this group, make the effort to actively challenge the ego.--[The Kenyon Review](https://kenyonreview.org/reviews/fur-not-light-by-jeff-alessandrelli-738439/).
+
 ["Hope"--*Fur Not Light* at Verse Daily](http://www.versedaily.org/2020/hope.shtml)  
 
 *Fur Not Light*—a title borrowed from Russian Absurdist Daanil Kharms—contains, generally speaking, two types of poems, as well as some notable stylistic choices with titling...the collection doesn’t lose its cohesion by taking a few experimental risks—the content is strong enough by itself that the devices, when they do show up, demand an extra close lens.--[Entropy](https://entropymag.org/fur-not-light-jeff-alessandrelli/)
