@@ -8,14 +8,12 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Friday, 6/5 @ the [Studio One Reading Series](https://studioonereadingseries.blogspot.com/), Oakland, CA, with other readers TBA
-
-- Monday, 6/22 @ the [Sacramento Poetry Center](http://www.sacramentopoetrycenter.com/), Sacramento, CA, with other readers TBA 
-
-- Thursday, 9/17- Friday, 9/18 @ [Mission Creek Festival](http://missioncreekfestival.com/), Iowa City, IA, with a whole medley of other great writers/musicians/publishers
+- TBA 
 
 
 **Deceased readings and events:**
+
+- ~~Friday, 6/12 @ the Studio One Reading Series, Oakland, CA, with Alix Coupet Jr.~~ 
 
 - ~~Thursday, 2/20 @ The Museum of Russian Art, Minneapolis, MN, with Paula Cisewski. Hosted by Rain Taxi Review of Books.~~ 
 
