@@ -14,6 +14,9 @@ published: true
 
 The importance of *Fur Not Light* lies in its multiple concerns and varied perspectives that prove life is larger than any one thing, even if one exists as a person. Not only is this book necessary, but it is also kind to its reader, in that it provides the tools with which to enter the poems. *Fur Not Light* is an example of radical humility, and its widespread concerns for all living life require a levity of ego. Any work of creative writing could be said to chip away at the ego, but few, and I include Jeff Alessandrelli in this group, make the effort to actively challenge the ego.--[The Kenyon Review](https://kenyonreview.org/reviews/fur-not-light-by-jeff-alessandrelli-738439/).
 
+
+The images [in *Fur Not Light*] are simultaneously strange and yet rooted in the familiar, slightly distorted while still parallel, and betray an attention span either cut short by a threatening nihilism or over-expansive in an effort to encompass as much narrative, from the profound to the mundane, in order to resist such a threat. “Resist” is, after all, the mantra of these times, is it not?-- Abigail Chabitnoy at [Colorado Review](https://coloradoreview.colostate.edu/reviews/fur-not-light/)
+
 ["Hope"--*Fur Not Light* at Verse Daily](http://www.versedaily.org/2020/hope.shtml)  
 
 *Fur Not Light*—a title borrowed from Russian Absurdist Daanil Kharms—contains, generally speaking, two types of poems, as well as some notable stylistic choices with titling...the collection doesn’t lose its cohesion by taking a few experimental risks—the content is strong enough by itself that the devices, when they do show up, demand an extra close lens.--[Entropy](https://entropymag.org/fur-not-light-jeff-alessandrelli/)
