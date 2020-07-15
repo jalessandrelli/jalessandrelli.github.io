@@ -6,7 +6,7 @@ order: 3
 image: /assets/rad2.gif
 published: true
 ---
-Essays by me have appeared at *The American Poetry Review*, *The Millions*, *Denver Quarterly*, *Pleaides*, *Lit Hub*, *Poetry Northwest*, *Puerto del Sol*, and *Full Stop*. A few online can be found at:
+Essays by me have appeared at *The American Poetry Review*, *The Millions*, *Denver Quarterly*, *Pleaides*, *Lit Hub*, *Poetry Northwest*, *Puerto del Sol*, *Please Kill Me* and *Full Stop*. A few online can be found at:
 
 - [Poetry Northwest](https://www.poetrynw.org/like-a-veil-on-humanness-shame-and---mark-baumer/) 
 - [The Spectacle](https://thespectacle.staging.wpengine.com/?p=1069) 
@@ -16,4 +16,3 @@ Essays by me have appeared at *The American Poetry Review*, *The Millions*, *Den
 - [The Millions](http://www.themillions.com/2016/08/tk-on-the-nu-audacity-school-of-poetry.html)
 - [Backwords](https://www.backwordsblog.com/single-post/2015/09/23/Divinity-unto-Destruction%E2%80%94on-Urs-Fischer%E2%80%99s-wax-sculptures-%E2%80%9CWhat-if-the-Phone-Rings%E2%80%9D-and-%E2%80%9CUntitled-The-Rape-of-the-Sabine-Women%E2%80%9D)
 - [The Fanzine](http://thefanzine.com/author/jeffa/)
-- [Please Kill Me](https://pleasekillme.com/hip-hop-joins-the-academy/)
