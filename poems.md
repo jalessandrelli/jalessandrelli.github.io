@@ -4,10 +4,10 @@ title: Poems
 permalink: /poems
 order: 2
 image: /assets/poem.gif
-published: true
+published: false
 ---
 Poems and translations by moí have appeared in *The American Poetry Review*, *Boston Review*,
-*Gulf Coast*, *Pleiades*, *DIAGRAM*, *The Common*, *Salt Hill*, *Poetry Daily*, *Denver Quarterly*, *Western Humanities Review, Verse Daily*, *Prairie Schooner*, *Witness* and *Interim*, among others. A few online can be found at:
+*Gulf Coast*, *Pleiades*, *DIAGRAM*, *The Common*, *Poetry London*, *Salt Hill*, *Poetry Daily*, *Denver Quarterly*, *Western Humanities Review, Verse Daily*, *Prairie Schooner*, *Witness* and *Interim*, among others. A few online can be found at:
 - [Poetry Daily](https://poems.com/poem/poem-for-hilda-doolittle-hilda-morley/)   
 - [Witness](https://witness.blackmountaininstitute.org/issues/vol-xxx-2-summer-2017/raonelstam/)
 - [Old Pal](https://www.oldpalmag.com/issue-4/2020/7/4/jeff-alessandrelli-four-poems)
