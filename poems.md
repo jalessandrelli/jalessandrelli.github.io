@@ -4,7 +4,7 @@ title: Poems
 permalink: /poems
 order: 2
 image: /assets/poem.gif
-published: false
+published: true
 ---
 Poems and translations by moí have appeared in *The American Poetry Review*, *Boston Review*,
 *Gulf Coast*, *Pleiades*, *DIAGRAM*, *The Common*, *Poetry London*, *Salt Hill*, *Poetry Daily*, *Denver Quarterly*, *Western Humanities Review, Verse Daily*, *Prairie Schooner*, *Witness* and *Interim*, among others. A few online can be found at:
