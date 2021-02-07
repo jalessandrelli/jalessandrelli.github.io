@@ -8,8 +8,11 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- TBA 
+- Tuesday, 2/23 @ the University of Nevada-Reno, Reno, NV. 6 PM PST. Distinguished Alumnus reading. 
 
+Via Zoom: https://unr.zoom.us/j/83426785283
+
+Meeting ID: 834 2678 5283
 
 **Deceased readings and events:**
 
