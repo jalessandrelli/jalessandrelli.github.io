@@ -8,13 +8,11 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Tuesday, 2/23 @ the University of Nevada-Reno, Reno, NV. 6 PM PST. Distinguished Alumnus reading. 
-
-Via Zoom: https://unr.zoom.us/j/83426785283
-
-Meeting ID: 834 2678 5283
+- Thursday, 6/3 @ Remotely Personal Greetings/Unnameable Books, New York, NY/Zoom, with JD Pluecker, Filip Marinovich and Kimberly Alido.  
 
 **Deceased readings and events:**
+
+~~- Tuesday, 2/23 @ the University of Nevada-Reno, Reno, NV. 6 PM PST. Distinguished Alumnus reading. Via Zoom.~~
 
 - ~~Friday, 6/12 @ the Studio One Reading Series, Oakland, CA, with Alix Coupet Jr.~~ 
 
