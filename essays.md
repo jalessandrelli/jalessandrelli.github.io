@@ -6,7 +6,7 @@ order: 3
 image: /assets/rad2.gif
 published: true
 ---
-Essays by me have appeared at *The American Poetry Review*, *The Millions*, *Denver Quarterly*, *Pleaides*, *Lit Hub*, *Essay Daily*, *Poetry Northwest*, *Puerto del Sol*, *Please Kill Me* and *Full Stop*. A few online can be found at:
+Essays by me have appeared at *The American Poetry Review*, *The Millions*, *Denver Quarterly*, *Pleaides*, *Lit Hub*, *Poetry Northwest*, *Puerto del Sol*, *Please Kill Me* and *Full Stop*. A few online can be found at:
 
 - [Poetry Northwest](https://www.poetrynw.org/like-a-veil-on-humanness-shame-and---mark-baumer/) 
 - [The Spectacle](https://thespectacle.staging.wpengine.com/?p=1069) 

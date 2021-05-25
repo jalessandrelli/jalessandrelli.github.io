@@ -16,7 +16,6 @@ Poems and translations by moí have appeared in *The American Poetry Review*, *B
 - [The Elephants](https://theelephants.net/records/jeff-alessandrelli)
 - [Boston Review](http://bostonreview.net/author/jeff-alessandrelli)
 - [Interim](https://interim.squarespace.com/paz-alessandrelli)
-- [Memorious](http://www.memorious.org/?id=505)
 - [The Normal School](https://www.thenormalschool.com/blog/2014/12/27/three-poems-by-jeff-alessandrelli)
 - [diode](http://diodepoetry.com/v4n3/content/alessandrelli_j.html)
 - [DIAGRAM](http://thediagram.com/11_1/alessandrelli.html)

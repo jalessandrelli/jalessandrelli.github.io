@@ -6,10 +6,6 @@ order: 5
 image: /assets/press.gif
 published: true
 ---
-##### For *NOTHING OF THE MONTH CLUB* (U.K. edition of *FUR NOT LIGHT;* to be published by U.K. press [Broken Sleep Books](https://www.brokensleepbooks.com/) in June 2021):
-
-"Alessandrelli's wry, intelligent poems are relentlessly grounded in the hyperreal of our fast-paced technological present and yet they are supremely successful in finding heartfelt lyricism where one might not expect to find it. *Nothing of the Month Club* packs a punch - and delivers." -André Naffis-Sahely 
-
 ##### For *FUR NOT LIGHT* (Published by Burnside Review Press in October 2019):
 
 *Fur Not Light* is a deeply funny book, with details and stretches that breeze by with set up/punchline directness. In between those lighter moments...are passages that are unshakably beautiful.--[Portland Mercury](https://www.portlandmercury.com/books/2019/11/21/27510813/fur-not-light-poetry-review-jeff-alessandrellis-latest-work-is-perfectly-balanced-and-deeply-funny)  
@@ -41,7 +37,7 @@ Learning about the past cannot be mechanical, undertaken for the sake of finite 
 
 "The titles in Jeff Alessandrelli’s *Fur Not Light* – “Be Your Own Hitman,” say, or “Nothing of the Month Club” are grimly funny indicators of what’s to come. These are poems about how to downsize hope, that most human of emotions. “We hope to resign ourselves to hope,” Alessandrelli writes, but, of course, we never quite succeed. Hope and resignation tussle endlessly here like a Buddhist version of Laurel and Hardy. In *Fur Not Light* wisdom has rhythm." –Rae Armantrout 
 
-##### For *THE MAN ON HIGH: ESSAYS ON SKATEBOARDING, HIP-HOP, POETRY AND THE NOTORIOUS B.I.G.* (Published in the U.K./U.S. by the U.K. press Eyewear in March 2018):
+##### For *THE MAN ON HIGH: ESSAYS ON SKATEBOARDING, HIP-HOP, POETRY AND THE NOTORIOUS B.I.G.* (Published in the U.K./U.S. by the UK press Eyewear in March 2018):
 
 [Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/Nonfiction-Bestsellers-January-through-March-2018.aspx)
 
