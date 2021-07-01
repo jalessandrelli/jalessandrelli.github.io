@@ -7,7 +7,7 @@ image: /assets/fonograf-logo.jpg
 published: true
 ---
 <span>
-  I currently run the non-profit literary record label/press [*Fonograf Editions*](http://fonografeditions.com/), which has released books and albums by Dao Strom, Eileen Myles, Rae Armantrout, Alice Notley, Harmony Holiday and Susan Howe/Nathaniel Mackey. I wrote about Fonograf’s inception [here at The Fanzine](http://thefanzine.com/bad-business-is-good-art-fonograf-editions/).
+  I currently run the non-profit literary record label/press [*Fonograf Editions*](http://fonografeditions.com/), which has released books and albums by Dao Strom, Eileen Myles, Rae Armantrout, Alice Notley, Mark Leidner, Harmony Holiday and Susan Howe/Nathaniel Mackey, among others. I wrote about Fonograf’s inception [here at The Fanzine](http://thefanzine.com/bad-business-is-good-art-fonograf-editions/).
 </span>
 
 [![Susan How and Nathaniel Mackey]({{ "/assets/fonograf-stray.jpg" | absolute_url }})](http://fonografeditions.com/catalog/stray-a-graphic-tone/)
