@@ -12,7 +12,7 @@ published: true
 
 **Deceased readings and events:**
 
-- ~~Wednesday, 6/30/21 @ Broken Sleep Books, _Nothing of the Month Club_ lauch reading, UK/Zoom, with Alex Mazey, Jessica Mookherjee and Lotte Mitchell.~~ 
+- ~~Wednesday, 6/30/21 @ Broken Sleep Books, _Nothing of the Month Club_ launch reading, UK/Zoom, with Alex Mazey, Jessica Mookherjee and Lotte Mitchell.~~ 
 
 - ~~Thursday, 6/3/21 @ Remotely Personal Greetings/Unnameable Books, New York, NY/Zoom, with JD Pluecker, Filip Marinovich and Kimberly Alido.~~
 
