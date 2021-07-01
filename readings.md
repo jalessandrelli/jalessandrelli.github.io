@@ -8,17 +8,21 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Thursday, 6/3 @ Remotely Personal Greetings/Unnameable Books, New York, NY/Zoom, with JD Pluecker, Filip Marinovich and Kimberly Alido.  
+- 
 
 **Deceased readings and events:**
 
-~~- Tuesday, 2/23 @ the University of Nevada-Reno, Reno, NV. 6 PM PST. Distinguished Alumnus reading. Via Zoom.~~
+- ~~Wednesday, 6/30/21 @ Broken Sleep Books, _Nothing of the Month Club_ lauch reading, UK/Zoom, with Alex Mazey, Jessica Mookherjee and Lotte Mitchell.~~ 
 
-- ~~Friday, 6/12 @ the Studio One Reading Series, Oakland, CA, with Alix Coupet Jr.~~ 
+- ~~Thursday, 6/3/21 @ Remotely Personal Greetings/Unnameable Books, New York, NY/Zoom, with JD Pluecker, Filip Marinovich and Kimberly Alido.~~
 
-- ~~Thursday, 2/20 @ The Museum of Russian Art, Minneapolis, MN, with Paula Cisewski. Hosted by Rain Taxi Review of Books.~~ 
+- ~~Tuesday, 2/23/21 @ the University of Nevada-Reno, Reno, NV. 6 PM PST. Distinguished Alumnus reading. Via Zoom.~~
 
-- ~~Saturday, 1/25 @ Union Hall, Denver, CO, with Eric Baus, Kelly Krumrie, Joanna Howard and Ella Longpre~~
+- ~~Friday, 6/12/20 @ the Studio One Reading Series, Oakland, CA, with Alix Coupet Jr.~~ 
+
+- ~~Thursday, 2/20/20 @ The Museum of Russian Art, Minneapolis, MN, with Paula Cisewski. Hosted by Rain Taxi Review of Books.~~ 
+
+- ~~Saturday, 1/25/20 @ Union Hall, Denver, CO, with Eric Baus, Kelly Krumrie, Joanna Howard and Ella Longpre~~
 
 - ~~Sunday, 12/1/19 @ Powell's Books, Portland, OR, with Dao Strom and Danielle Frandina~~ 
 
