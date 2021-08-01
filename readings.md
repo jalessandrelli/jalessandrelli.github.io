@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- 
+- Wednesday, 8/4/21 @ [Dundee Book Company,](https://dundee-book-company.square.site/)  Omaha, NE, with Chris Harding Thornton 
 
 **Deceased readings and events:**
 
