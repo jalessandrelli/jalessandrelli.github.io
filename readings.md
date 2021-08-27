@@ -8,6 +8,8 @@ published: true
 ---
 **Upcoming readings and events:**
 
+- Thursday, 9/16/21 @ [Piedmont University](https://www.piedmont.edu/), Athens, GA, via Zoom. Fall 2021 Reading Series in the Humanities, with Dorothy Chan and Lindsay Tigue. 
+
 - Wednesday, 8/4/21 @ [Dundee Book Company,](https://dundee-book-company.square.site/)  Omaha, NE, with Chris Harding Thornton 
 
 **Deceased readings and events:**
