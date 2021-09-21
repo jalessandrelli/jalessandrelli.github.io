@@ -7,9 +7,12 @@ image: /assets/press.gif
 published: true
 ---
 
-##### For _NOTHING OF THE MONTH CLUB_ (U.K. edition of _FUR NOT LIGHT;_ to be published by U.K. press [Broken Sleep Books](https://www.brokensleepbooks.com/) in June 2021):
+##### For _NOTHING OF THE MONTH CLUB_ (U.K. edition of _FUR NOT LIGHT;_ published by U.K. press [Broken Sleep Books](https://www.brokensleepbooks.com/) in June 2021):
 
 "Alessandrelli's wry, intelligent poems are relentlessly grounded in the hyperreal of our fast-paced technological present and yet they are supremely successful in finding heartfelt lyricism where one might not expect to find it. _Nothing of the Month Club_ packs a punch - and delivers." -André Naffis-Sahely
+
+[_Nothing of the Month Club_ Surreal-Absurd Sampler at Mercurius](https://www.mercurius.one/home/surreal-absurd-sampler-jeff-alessandrelli)
+
 
 ##### For _FUR NOT LIGHT_ (Published by Burnside Review Press in October 2019):
 
