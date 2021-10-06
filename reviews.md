@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Reviews & Interviews
+title: Reviews/Interviews
 permalink: /reviews
 order: 4
 image: /assets/reviews.gif
