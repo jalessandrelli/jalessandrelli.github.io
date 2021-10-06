@@ -14,3 +14,9 @@ I semi-regularly review books for places like *Pleiades*, *Colorado Review*, *Th
 - [Kenyon Review](https://www.kenyonreview.org/writer/jeff-alessandrelli/)
 - [Jacket 2](https://jacket2.org/reviews/problem-being-numerous-problem-memory)
 - [Rain Taxi](http://www.raintaxi.com/wolfs-milk-the-lost-notebooks-of-juan-sweeney/)
+
+I semi-regularly interview authors at places like *BOMB*, *Full Stop*, and *Boston Review.* A few online can be found at:
+
+- [BOMB](https://bombmagazine.org/articles/alice-notley-interviewed-runes/)
+- [Full Stop](https://www.full-stop.net/author/jeff-alessandrelli/)
+- [Boston Review](https://bostonreview.net/poetry/interview-jeff-alessandrelli-john-gallaher)
