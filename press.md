@@ -11,6 +11,8 @@ published: true
 
 "Alessandrelli's wry, intelligent poems are relentlessly grounded in the hyperreal of our fast-paced technological present and yet they are supremely successful in finding heartfelt lyricism where one might not expect to find it. _Nothing of the Month Club_ packs a punch - and delivers." -André Naffis-Sahely
 
+["Journey into the Wild"--_Nothing of the Month Club_ interview with translator Joshua Pollock at 3:AM](https://www.3ammagazine.com/3am/journey-into-the-wild/)
+
 [_Nothing of the Month Club_ Surreal-Absurd Sampler at Mercurius](https://www.mercurius.one/home/surreal-absurd-sampler-jeff-alessandrelli)
 
 
