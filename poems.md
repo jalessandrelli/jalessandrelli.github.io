@@ -15,6 +15,7 @@ _Gulf Coast_, _Pleiades_, _DIAGRAM_, _The Common_, _Poetry London_, _VOLT_, _Sal
 - [Sixth Finch](http://sixthfinch.com/alessandrelli1.html)
 - [Old Pal](https://www.oldpalmag.com/issue-4/2020/7/4/jeff-alessandrelli-four-poems)
 - [The Laurel Review](https://laurelreview.org/issues/501)
+- [Tentacular (UK)](https://www.tentacularmag.com/issue-8-c/jeff-alessandrelli)
 - [The Elephants](https://theelephants.net/records/jeff-alessandrelli)
 - [Boston Review](http://bostonreview.net/author/jeff-alessandrelli)
 - [Interim](https://interim.squarespace.com/paz-alessandrelli)
