@@ -8,7 +8,7 @@ published: true
 ---
 
 Poems and translations by moí have appeared in _The American Poetry Review_, _Boston Review_,
-_Gulf Coast_, _Pleiades_, _DIAGRAM_, _The Common_, _Poetry London_, _VOLT_, _Salt Hill_, _Poetry Daily_, _Denver Quarterly_, _Western Humanities Review, Verse Daily_, _Prairie Schooner_, _Witness_ and _Interim_, among others. A few online can be found at:
+_Gulf Coast_, _Pleiades_, _DIAGRAM_, _The Common_, _Poetry London_, _VOLT_, _Salt Hill_, _Poetry Daily_, _Denver Quarterly_, _Western Humanities Review, Verse Daily_, _Prairie Schooner_, _Witness_ and _Interim_, among others. I've also had poems translated into Chinese and Japanese. A few online works can be found at:
 
 - [Poetry Daily](https://poems.com/poem/poem-for-hilda-doolittle-hilda-morley/)
 - [Witness](https://witness.blackmountaininstitute.org/issues/vol-xxx-2-summer-2017/raonelstam/)
