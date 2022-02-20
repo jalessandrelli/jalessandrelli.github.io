@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- TBA 
+- Tuesday, 3/15/22 @ [Nebraska Wesleyan University](https://www.nebrwesleyan.edu/academics/majors-and-minors/english/kloefkorn-nebraska-writers]), Lincoln, NE. William C. Kloefkorn Nebraska Writers Series.  
 
 **Deceased readings and events:**
 
