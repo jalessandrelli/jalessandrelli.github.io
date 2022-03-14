@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Tuesday, 3/15/22, 6 PM @ Nebraska Wesleyan University, Lincoln, NE. [William C. Kloefkorn Nebraska Writers Series.](https://www.nebrwesleyan.edu/academics/majors-and-minors/english/kloefkorn-nebraska-writers)  
+- Tuesday, 3/15/22, 6 PM @ Nebraska Wesleyan University, Lincoln, NE. [William C. Kloefkorn Nebraska Writers Series.](https://nwuenglish.wordpress.com/events/)  
 
 **Deceased readings and events:**
 
