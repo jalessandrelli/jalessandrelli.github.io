@@ -12,7 +12,6 @@ published: true
 </span>
 
 [![And Yet]({{ "/assets/and-yet.jpg" | absolute_url }})](https://pankmagazine.com/shop/preorder-yet-jeff-alessandrelli/)
-[![Fur Not Light]({{ "/assets/fur-not-light.jpg" | absolute_url }})](https://burnsidereview.org/books-fur.html)
 [![Nothing of the Month Club]({{ "/assets/nothing-of-the-month-club.png" | absolute_url }})](https://www.brokensleepbooks.com/product-page/jeff-alessandrelli-nothing-of-the-month-club)
 [![Fur Not Light]({{ "/assets/fur-not-light.jpg" | absolute_url }})](https://burnsidereview.org/books-fur.html)
 [![The Man on High: Essays on Skateboarding, Hip-Hop, Poetry and The Notorious B.I.G.]({{ "/assets/man-on-high.jpg" | absolute_url }})](https://blackspringpressgroup.com/collections/squint/products/the-man-on-high)
