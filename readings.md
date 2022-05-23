@@ -8,9 +8,11 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Tuesday, 3/15/22, 6 PM @ Nebraska Wesleyan University, Lincoln, NE. [William C. Kloefkorn Nebraska Writers Series.](https://nwuenglish.wordpress.com/events/)  
+- TBA
 
 **Deceased readings and events:**
+
+- ~~Tuesday, 3/15/22, 6 PM @ Nebraska Wesleyan University, Lincoln, NE. William C. Kloefkorn Nebraska Writers Series~~. 
 
 - ~~Thursday, 9/16/21 @ Piedmont University, Athens, GA, via Zoom. Fall 2021 Reading Series in the Humanities, with Dorothy Chan and Lindsay Tigue~~. 
 
