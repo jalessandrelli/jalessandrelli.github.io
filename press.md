@@ -7,6 +7,12 @@ image: /assets/press.gif
 published: true
 ---
 
+##### For _AND YET_ (Published by [[PANK]](https://pankmagazine.com/) in June 2022):
+
+"_And Yet_ asks, What might be gained or lost from living one’s life via text instead of directly participating in the world? Through aphorism, anecdote, observation, and personal narrative, Alessandrelli examines the complex entanglements of sexuality and desire. A profound and concise work of self-construction." –Patrick Cottrell
+
+"What I find compelling about _And Yet_ is its Leirisian insistence on the “unattenuated crudity” of candid self-disclosure as it juggles its intellectual bricolage and its generational concerns with its speculative fictional narrative. Amid meditations on quotations revealing a fairly individual reading sensibility—Cyril Connolly!—_And Yet_ nonetheless takes on the momentum of a pageturner; I found myself wondering, “What’ll happen to the poor bastard? Will I still like him at the end?” like I was reading a thriller instead of a hybrid whuzzit investigating millennial dilemmas of sex, gender, and intimacy, one written in the grand tradition of poet’s prose. In the immortal words of Bon Scott, “It’s harder than it looks!” –Garrett Caples
+
 ##### For _NOTHING OF THE MONTH CLUB_ (U.K. edition of _FUR NOT LIGHT;_ published by U.K. press [Broken Sleep Books](https://www.brokensleepbooks.com/) in June 2021):
 
 "Alessandrelli's wry, intelligent poems are relentlessly grounded in the hyperreal of our fast-paced technological present and yet they are supremely successful in finding heartfelt lyricism where one might not expect to find it. _Nothing of the Month Club_ packs a punch - and delivers." -André Naffis-Sahely
@@ -50,9 +56,9 @@ Learning about the past cannot be mechanical, undertaken for the sake of finite 
 
 ##### For _THE MAN ON HIGH: ESSAYS ON SKATEBOARDING, HIP-HOP, POETRY AND THE NOTORIOUS B.I.G._ (Published in the U.K./U.S. by the UK press Eyewear in March 2018):
 
-[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/Nonfiction-Bestsellers-January-through-March-2018.aspx)
+Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--Jan-March 2018
 
-[Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--July-September 2018](https://www.spdbooks.org/pages/bestsellers/nonfiction/Nonfiction-Bestsellers-July-through-September-2018.aspx)
+Small Press Distribution (SPD) Top 20 Nonfiction Bestseller List--July-September 2018
 
 [Wisconsin Public Radio, KUWS 91.3--The Walt Dizzo Show--_The Man on High_ radio interview](https://drive.google.com/file/d/1pCBAMIUFh3fI7US9xmaJOsgouyCyUIAb/view)
 
