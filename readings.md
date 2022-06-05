@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- TBA
+- Thursday, 6/30/22, 7PM @ [Nationale](https://www.nationale.us/), Portland, OR, with [Felicity Fenton](https://felicityfenton.com/)
 
 **Deceased readings and events:**
 
