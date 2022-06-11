@@ -10,6 +10,10 @@ published: true
 
 - Thursday, 6/30/22, 7PM @ [Nationale](https://www.nationale.us/), Portland, OR, with [Felicity Fenton](https://felicityfenton.com/)
 
+- Friday, 7/8/22, 7PM @ the [Independent Publishing Resource Center](https://www.iprc.org/), Portland, OR, with Warren Longmire and Janice Lee.
+
+- Friday, 7/29/22, 7PM @ [Mother Foucault's](https://www.motherfoucaultsbookshop.com/), Portland, OR, with Kelly Krumrie and Joshua Pollock.
+
 **Deceased readings and events:**
 
 - ~~Tuesday, 3/15/22, 6 PM @ Nebraska Wesleyan University, Lincoln, NE. William C. Kloefkorn Nebraska Writers Series~~. 
