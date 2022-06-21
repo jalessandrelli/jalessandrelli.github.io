@@ -14,6 +14,8 @@ published: true
 
 - Friday, 7/29/22, 7PM @ [Mother Foucault's](https://www.motherfoucaultsbookshop.com/), Portland, OR, with Kelly Krumrie and Joshua Pollock.
 
+- Friday, 9/16/22, 7PM @ [GEORGIA](https://www.sommerbrowning.com/georgia), Denver, CO, with Kevin Sampsell, Meca’Ayo Cole, Andrea Rexilius, Shannon Tharp and others.
+
 **Deceased readings and events:**
 
 - ~~Tuesday, 3/15/22, 6 PM @ Nebraska Wesleyan University, Lincoln, NE. William C. Kloefkorn Nebraska Writers Series~~. 
