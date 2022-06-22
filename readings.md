@@ -16,6 +16,10 @@ published: true
 
 - Friday, 9/16/22, 7PM @ [GEORGIA](https://www.sommerbrowning.com/georgia), Denver, CO, with Kevin Sampsell, Meca’Ayo Cole, Andrea Rexilius, Shannon Tharp and others.
 
+- Sunday, 9/18/22, 1PM @ [Watermark Books](https://www.watermarkbooks.com/), Wichita, KS, with Kevin Sampsell and others TBA.
+
+- Wednesday, 9/21/22, 7PM @ [Wise Blood Booksellers](https://www.wisebloodbooksellers.com/), Kansas City, MO, with Kevin Sampsell and others TBA.
+
 **Deceased readings and events:**
 
 - ~~Tuesday, 3/15/22, 6 PM @ Nebraska Wesleyan University, Lincoln, NE. William C. Kloefkorn Nebraska Writers Series~~. 
