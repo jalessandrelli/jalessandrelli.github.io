@@ -9,6 +9,7 @@ published: true
 I semi-regularly review books for places like *Pleiades*, *Colorado Review*, *The Kenyon Review*, *Boston Review*, *The Rumpus*, and *Rain Taxi*. A few online can be found at:
 
 - [Hong Kong Review of Books](https://hkrbooks.com/2019/01/19/you-will-always-be-someone-from-somewhere-else/)
+- [Oregon ArtsWatch](https://www.orartswatch.org/art-review-christian-rogers-shohei-takasaki-at-nationale/)
 - [The Rumpus](http://therumpus.net/author/jeff-alessandrelli/)
 - [Colorado Review](http://coloradoreview.colostate.edu/reviews/the-absolute-letter/)
 - [Kenyon Review](https://www.kenyonreview.org/writer/jeff-alessandrelli/)
