@@ -12,7 +12,7 @@ published: true
 
 - Sunday, 9/18/22, 1PM @ [Watermark Books](https://www.watermarkbooks.com/), Wichita, KS, with Kevin Sampsell and others TBA.
 
-- Monday, 9/19/22, 7PM @ [Dundee Book Company](https://dundee-book-company.square.site/), Omaha, NE, with Kevin Sampsell and others TBA.
+- Monday, 9/19/22, 7PM @ [Dundee Book Company](https://dundee-book-company.square.site/), Omaha, NE, with Kevin Sampsell and Emily Borgmann.
 
 **Deceased readings and events:**
 
