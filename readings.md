@@ -8,23 +8,19 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Thursday, 6/30/22, 7PM @ [Nationale](https://www.nationale.us/), Portland, OR, with [Felicity Fenton](https://felicityfenton.com/)
-
-- Saturday, 7/9/22, 7PM @ the [Independent Publishing Resource Center](https://www.iprc.org/), Portland, OR, with Warren Longmire and Janice Lee.
-
-- Friday, 7/29/22, 7PM @ [Mother Foucault's](https://www.motherfoucaultsbookshop.com/), Portland, OR, with Kelly Krumrie and Joshua Pollock.
-
-- Friday, 9/16/22, 7PM @ [GEORGIA](https://www.sommerbrowning.com/georgia), Denver, CO, with Kevin Sampsell, Meca’Ayo Cole, Andrea Rexilius, Shannon Tharp and others.
+- Friday, 9/16/22, 7PM @ [Evans School](https://www.denverevansschool.com/), Room 111, Denver, CO, with Natalie Earnhart, HR Hegnauer, Nazli Koca, Kevin Sampsell.
 
 - Sunday, 9/18/22, 1PM @ [Watermark Books](https://www.watermarkbooks.com/), Wichita, KS, with Kevin Sampsell and others TBA.
 
 - Monday, 9/19/22, 7PM @ [Dundee Book Company](https://dundee-book-company.square.site/), Omaha, NE, with Kevin Sampsell and others TBA.
 
-- Wednesday, 9/21/22, 7PM @ [Wise Blood Booksellers](https://www.wisebloodbooksellers.com/), Kansas City, MO, with Kevin Sampsell and others TBA.
-
-- Friday, 9/23/22, 7PM @ [Nashville Poetry Library](https://nashvillepoetrylibrary.com/), Nashville, TN, with Kevin Sampsell and others TBA.
-
 **Deceased readings and events:**
+
+- ~~Thursday, 6/30/22, 7PM @ Nationale, Portland, OR, with Felicity Fenton~~
+
+- ~~Saturday, 7/9/22, 7PM @ the Independent Publishing Resource Center, Portland, OR, with Warren Longmire and Janice Lee~.
+
+- ~~Friday, 7/29/22, 7PM @ Mother Foucault's, Portland, OR, with Kelly Krumrie and Joshua Pollock~.
 
 - ~~Tuesday, 3/15/22, 6 PM @ Nebraska Wesleyan University, Lincoln, NE. William C. Kloefkorn Nebraska Writers Series~~. 
 
