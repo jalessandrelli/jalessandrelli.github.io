@@ -14,6 +14,8 @@ published: true
 
 - Monday, 9/19/22, 7PM @ [Dundee Book Company](https://dundee-book-company.square.site/), Omaha, NE, with Kevin Sampsell and Emily Borgmann.
 
+- Wednesday, 10/5/22, 10AM PST @ [The Brooklyn Rail](https://brooklynrail.org/), via Zoom, with Claire Donato and others TBA.
+
 **Deceased readings and events:**
 
 - ~~Thursday, 6/30/22, 7PM @ Nationale, Portland, OR, with Felicity Fenton~~
