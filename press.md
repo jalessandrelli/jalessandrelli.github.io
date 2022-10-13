@@ -11,6 +11,10 @@ published: true
 
 "Genre and Selfhood and Speculation"--on writing *And Yet* at [Heavy Feather Review](https://heavyfeatherreview.org/2022/07/15/genre-and-selfhood-and-speculation-endless/)
 
+["Abject Uncertainty"--_And Yet_ interview at Poetry Northwest with Ashley Yang Thompson](https://www.poetrynw.org/interview-abject-uncertainty/)
+
+[_And Yet_ interview with Alexis Orgera at Full Stop](https://www.full-stop.net/2022/10/04/interviews/jeff-and-lex/jeff-alessandrelli-and-alexis-orgera/)
+
 "_And Yet_ asks, What might be gained or lost from living one’s life via text instead of directly participating in the world? Through aphorism, anecdote, observation, and personal narrative, Alessandrelli examines the complex entanglements of sexuality and desire. A profound and concise work of self-construction." –Patrick Cottrell
 
 "What I find compelling about _And Yet_ is its Leirisian insistence on the “unattenuated crudity” of candid self-disclosure as it juggles its intellectual bricolage and its generational concerns with its speculative fictional narrative. Amid meditations on quotations revealing a fairly individual reading sensibility—Cyril Connolly!—_And Yet_ nonetheless takes on the momentum of a pageturner; I found myself wondering, “What’ll happen to the poor bastard? Will I still like him at the end?” like I was reading a thriller instead of a hybrid whuzzit investigating millennial dilemmas of sex, gender, and intimacy, one written in the grand tradition of poet’s prose. In the immortal words of Bon Scott, “It’s harder than it looks!” –Garrett Caples
