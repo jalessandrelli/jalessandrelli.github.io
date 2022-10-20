@@ -9,11 +9,15 @@ published: true
 
 ##### For _AND YET_ (Published by [[PANK]](https://pankmagazine.com/) in June 2022):
 
+[The Brooklyn Rail: Sex is Not the End reading](https://www.youtube.com/watch?v=9gCAbPpOMQo)
+
 "Genre and Selfhood and Speculation"--on writing *And Yet* at [Heavy Feather Review](https://heavyfeatherreview.org/2022/07/15/genre-and-selfhood-and-speculation-endless/)
 
 ["Abject Uncertainty"--_And Yet_ interview at Poetry Northwest with Ashley Yang Thompson](https://www.poetrynw.org/interview-abject-uncertainty/)
 
 [_And Yet_ interview with Alexis Orgera at Full Stop](https://www.full-stop.net/2022/10/04/interviews/jeff-and-lex/jeff-alessandrelli-and-alexis-orgera/)
+
+[Jonah Asks](https://podcasts.apple.com/us/podcast/with-jeff-alessandrelli-on-writing-about-selfhood/id1537595117?i=1000582937068)
 
 "_And Yet_ asks, What might be gained or lost from living one’s life via text instead of directly participating in the world? Through aphorism, anecdote, observation, and personal narrative, Alessandrelli examines the complex entanglements of sexuality and desire. A profound and concise work of self-construction." –Patrick Cottrell
 
