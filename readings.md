@@ -8,15 +8,17 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Friday, 9/16/22, 7PM @ [Evans School](https://www.denverevansschool.com/), Room 111, Denver, CO, with Natalie Earnhart, HR Hegnauer, Nazli Koca, Kevin Sampsell.
-
-- Sunday, 9/18/22, 1PM @ [Watermark Books](https://www.watermarkbooks.com/), Wichita, KS, with Kevin Sampsell and others TBA.
-
-- Monday, 9/19/22, 7PM @ [Dundee Book Company](https://dundee-book-company.square.site/), Omaha, NE, with Kevin Sampsell and Emily Borgmann.
-
-- Wednesday, 10/5/22, 10AM PST @ [The Brooklyn Rail](https://brooklynrail.org/), via Zoom, with Claire Donato and others TBA.
+TBA
 
 **Deceased readings and events:**
+
+- ~~Wednesday, 10/5/22, 10AM PST @ The Brooklyn Rail, via Zoom, with Claire Donato and others TBA~~.
+
+- ~~Monday, 9/19/22, 7PM @ Dundee Book Company, Omaha, NE, with Kevin Sampsell and Emily Borgmann~~.
+
+- ~~Sunday, 9/18/22, 1PM @ Watermark Books, Wichita, KS, with Kevin Sampsell and others TBA~~.
+
+- ~~Friday, 9/16/22, 7PM @ Evans School, Room 111, Denver, CO, with Natalie Earnhart, HR Hegnauer, Nazli Koca, Kevin Sampsell~~.
 
 - ~~Thursday, 6/30/22, 7PM @ Nationale, Portland, OR, with Felicity Fenton~~
 
