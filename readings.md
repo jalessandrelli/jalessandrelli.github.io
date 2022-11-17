@@ -22,9 +22,9 @@ TBA
 
 - ~~Thursday, 6/30/22, 7PM @ Nationale, Portland, OR, with Felicity Fenton~~
 
-- ~~Saturday, 7/9/22, 7PM @ the Independent Publishing Resource Center, Portland, OR, with Warren Longmire and Janice Lee~.
+- ~~Saturday, 7/9/22, 7PM @ the Independent Publishing Resource Center, Portland, OR, with Warren Longmire and Janice Lee~~.
 
-- ~~Friday, 7/29/22, 7PM @ Mother Foucault's, Portland, OR, with Kelly Krumrie and Joshua Pollock~.
+- ~~Friday, 7/29/22, 7PM @ Mother Foucault's, Portland, OR, with Kelly Krumrie and Joshua Pollock~~.
 
 - ~~Tuesday, 3/15/22, 6 PM @ Nebraska Wesleyan University, Lincoln, NE. William C. Kloefkorn Nebraska Writers Series~~. 
 
