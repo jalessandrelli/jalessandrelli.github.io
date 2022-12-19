@@ -17,6 +17,8 @@ published: true
 
 [_And Yet_ interview with Alexis Orgera at Full Stop](https://www.full-stop.net/2022/10/04/interviews/jeff-and-lex/jeff-alessandrelli-and-alexis-orgera/)
 
+[_And Yet_ interview with Kelly Krumrie at The Adroit Journal](https://theadroitjournal.org/2022/12/16/a-conversation-between-jeff-alessandrelli-kelly-krumrie/)
+
 [Jonah Asks](https://podcasts.apple.com/us/podcast/with-jeff-alessandrelli-on-writing-about-selfhood/id1537595117?i=1000582937068)
 
 "_And Yet_ asks, What might be gained or lost from living one’s life via text instead of directly participating in the world? Through aphorism, anecdote, observation, and personal narrative, Alessandrelli examines the complex entanglements of sexuality and desire. A profound and concise work of self-construction." –Patrick Cottrell
