@@ -22,3 +22,4 @@ I semi-regularly interview authors at places like *BOMB*, *Full Stop*, and *Bost
 - [BOMB](https://bombmagazine.org/articles/alice-notley-interviewed-runes/)
 - [Full Stop](https://www.full-stop.net/author/jeff-alessandrelli/)
 - [Boston Review](https://bostonreview.net/poetry/interview-jeff-alessandrelli-john-gallaher)
+- [Berfrois](https://www.berfrois.com/2022/12/jeff-alessandrelli-interviews-daniel-levin-becker/)
