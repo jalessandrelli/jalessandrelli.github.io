@@ -11,6 +11,8 @@ published: true
 
 [The Brooklyn Rail: Sex is Not the End reading](https://www.youtube.com/watch?v=9gCAbPpOMQo)
 
+[Powell's Books Staff Top Five of 2022](https://www.powells.com/staff-top-fives-2022)
+
 "Genre and Selfhood and Speculation"--on writing *And Yet* at [Heavy Feather Review](https://heavyfeatherreview.org/2022/07/15/genre-and-selfhood-and-speculation-endless/)
 
 ["Abject Uncertainty"--_And Yet_ interview at Poetry Northwest with Ashley Yang Thompson](https://www.poetrynw.org/interview-abject-uncertainty/)
