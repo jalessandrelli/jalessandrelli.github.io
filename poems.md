@@ -27,4 +27,4 @@ _Gulf Coast_, _Pleiades_, _DIAGRAM_, _The Common_, _Poetry London_, _Image_, _VO
 - [Prelude](https://preludemag.com/posts/poem-for-consciousness-rumpled-wings-and-layers/)
 - [The Common](https://www.thecommononline.org/tag/jeff-alessandrelli/) (with Amy Lawless)
 - [Powder Keg](http://www.powderkegmagazine.com/jeff-alessandrelli)
-- [Verse Daily](http://www.versedaily.org/2011/eriksatiewatusies.shtml)
+- [Verse Daily](http://www.versedaily.org/2020/hope.shtml)
