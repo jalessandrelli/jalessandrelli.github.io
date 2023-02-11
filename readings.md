@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-TBA
+- Wednesday, 3/5/23, 7PM @ Mother Foucault's, Portland, OR, with Jessica Johnson, Anne Yoder and Jon Raymond.
 
 **Deceased readings and events:**
 
