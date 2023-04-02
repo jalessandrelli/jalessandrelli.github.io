@@ -7,7 +7,9 @@ image: /assets/press.gif
 published: true
 ---
 
-##### For _AND YET_ (Published by [[PANK]](https://pankmagazine.com/) in June 2022):
+##### For _AND YET_ (Forthcoming from [Future Tense Books](https://futuretensebooks.com/) in 2024):
+
+[The Lives of Writers](https://thelivesofwriters.com/episodes/jeff-alessandrelli)
 
 [The Brooklyn Rail: Sex is Not the End reading](https://www.youtube.com/watch?v=9gCAbPpOMQo)
 
