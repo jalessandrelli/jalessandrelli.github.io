@@ -8,9 +8,11 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Wednesday, 3/5/23, 7PM @ Mother Foucault's, Portland, OR, with Jessica Johnson, Anne Yoder and Jon Raymond.
-
 **Deceased readings and events:**
+
+~~- Saturday, 4/8/23, 2PM @ Mission Creek, Iowa City, IA, with Lauren Haldeman~~.
+
+~~- Wednesday, 3/5/23, 7PM @ Mother Foucault's, Portland, OR, with Jessica Johnson, Anne Yoder and Jon Raymond~~.
 
 - ~~Wednesday, 10/5/22, 10AM PST @ The Brooklyn Rail, via Zoom, with Claire Donato and others TBA~~.
 
