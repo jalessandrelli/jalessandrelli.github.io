@@ -8,6 +8,8 @@ published: true
 ---
 **Upcoming readings and events:**
 
+TBA
+
 **Deceased readings and events:**
 
 ~~- Saturday, 4/8/23, 2PM @ Mission Creek, Iowa City, IA, with Lauren Haldeman~~.
