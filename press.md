@@ -7,7 +7,7 @@ image: /assets/press.gif
 published: true
 ---
 
-##### For _AND YET_ (Forthcoming in 2024):
+##### For _AND YET_ (Forthcoming from [Future Tense Books](https://futuretensebooks.com/) in 2024):
 
 [The Lives of Writers](https://thelivesofwriters.com/episodes/jeff-alessandrelli)
 
