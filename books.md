@@ -11,6 +11,7 @@ published: true
   BIO: Jeff Alessandrelli is a writer. He lives in Portland, Oregon. A slightly longer (albeit outdated) bio can be found at the [Poetry Foundation website](https://www.poetryfoundation.org/poets/jeff-alessandrelli).
 </span>
 
+[![And Yet: A Novel about Sex & Shyness & Society]({{ "/assets/AndYet-cvr.png" | absolute_url }})](https://futuretensebooks.com/product/and-yet/)
 [![Nothing of the Month Club]({{ "/assets/nothing-of-the-month-club.png" | absolute_url }})](https://www.brokensleepbooks.com/product-page/jeff-alessandrelli-nothing-of-the-month-club)
 [![Fur Not Light]({{ "/assets/fur-not-light.jpg" | absolute_url }})](https://burnsidereview.org/books-fur.html)
 [![The Man on High: Essays on Skateboarding, Hip-Hop, Poetry and The Notorious B.I.G.]({{ "/assets/man-on-high.jpg" | absolute_url }})](https://blackspringpressgroup.com/collections/squint/products/the-man-on-high)
