@@ -9,7 +9,7 @@ published: true
 
 ##### For _AND YET_ (Forthcoming from [Future Tense Books](https://futuretensebooks.com/product/and-yet/) in April 2024):
 
-[The Lives of Writers](https://thelivesofwriters.com/episodes/jeff-alessandrelli)
+[The Lives of Writers](https://thelivesofwriters.com/episodes/jeff-alessandrelli-jja)
 
 [The Brooklyn Rail: Sex is Not the End reading](https://www.youtube.com/watch?v=9gCAbPpOMQo)
 
