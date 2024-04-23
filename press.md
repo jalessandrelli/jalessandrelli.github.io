@@ -7,7 +7,7 @@ image: /assets/press.gif
 published: true
 ---
 
-##### For _AND YET_ (Forthcoming from [Future Tense Books](https://futuretensebooks.com/product/and-yet/) in April 2024):
+##### For _AND YET_ (Published by [Future Tense Books](https://futuretensebooks.com/product/and-yet/) in April 2024):
 
 [The Lives of Writers](https://thelivesofwriters.com/episodes/jeff-alessandrelli-jja)
 
@@ -15,7 +15,7 @@ published: true
 
 [Powell's Books Staff Top Five of 2022](https://www.powells.com/staff-top-fives-2022)
 
-"Genre and Selfhood and Speculation"--on writing *And Yet* at [Heavy Feather Review](https://heavyfeatherreview.org/2022/07/15/genre-and-selfhood-and-speculation-endless/)
+[Largehearted Boy](https://largeheartedboy.com/2024/04/22/jeff-alessandrellis-playlist-for-his-novel-and-yet/)
 
 ["Abject Uncertainty"--_And Yet_ interview at Poetry Northwest with Ashley Yang Thompson](https://www.poetrynw.org/interview-abject-uncertainty/)
 
@@ -27,7 +27,8 @@ published: true
 
 "_And Yet_ asks, What might be gained or lost from living one’s life via text instead of directly participating in the world? Through aphorism, anecdote, observation, and personal narrative, Alessandrelli examines the complex entanglements of sexuality and desire. A profound and concise work of self-construction." –Patrick Cottrell
 
-"What I find compelling about _And Yet_ is its Leirisian insistence on the “unattenuated crudity” of candid self-disclosure as it juggles its intellectual bricolage and its generational concerns with its speculative fictional narrative. Amid meditations on quotations revealing a fairly individual reading sensibility—Cyril Connolly!—_And Yet_ nonetheless takes on the momentum of a pageturner; I found myself wondering, “What’ll happen to the poor bastard? Will I still like him at the end?” like I was reading a thriller instead of a hybrid whuzzit investigating millennial dilemmas of sex, gender, and intimacy, one written in the grand tradition of poet’s prose. In the immortal words of Bon Scott, “It’s harder than it looks!” –Garrett Caples
+"Composed in delicately and suggestively connected fragments, Jeff Alessandrelli’s And Yet is a lyrical yet probing investigation of the nature of modern intimacy, full of heart but always meticulously thoughtful."
+–Joe Moran, author of _Shrinking Violets: The Secret Life of Shyness_
 
 ##### For _NOTHING OF THE MONTH CLUB_ (U.K. edition of _FUR NOT LIGHT;_ published by U.K. press [Broken Sleep Books](https://www.brokensleepbooks.com/) in June 2021):
 
