@@ -13,6 +13,8 @@ published: true
 
 [Another Fucking Writing podcast](https://open.spotify.com/show/7sf7VTdP6CG35zpytokrOK)
 
+[Textual Healing podcast](https://textual-healing.pinecast.co/episode/b95f99ec/jeff-alessandrelli-you-don-t-always-know-what-you-re-doing)
+
 [The Brooklyn Rail: Sex is Not the End reading](https://www.youtube.com/watch?v=9gCAbPpOMQo)
 
 [Powell's Books Staff Top Five of 2022](https://www.powells.com/staff-top-fives-2022)
