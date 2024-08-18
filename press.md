@@ -11,6 +11,8 @@ published: true
 
 [The Lives of Writers](https://thelivesofwriters.com/episodes/jeff-alessandrelli-jja)
 
+[The Drunken Odyssey_a podcast about the writing life](https://thedrunkenodyssey.com/2024/08/17/episode-636-jeff-alissandrelli/)
+
 [Another Fucking Writing podcast](https://open.spotify.com/show/7sf7VTdP6CG35zpytokrOK)
 
 [Textual Healing podcast](https://textual-healing.pinecast.co/episode/b95f99ec/jeff-alessandrelli-you-don-t-always-know-what-you-re-doing)
