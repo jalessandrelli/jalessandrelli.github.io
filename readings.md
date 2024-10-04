@@ -8,13 +8,15 @@ published: true
 ---
 **Upcoming readings and events:**
 
-- Friday, 2/9/24, 5PM @ Vulpes Bastille, Kansas City, KS, with Trey Moody, Gabriel Dozal, and others.
-
-- Saturday, 2/10/24, 7PM @ Nighthawk, Kansas City, KS, with Danika Stegeman May, S. Brook Corfman, Vi Khi Nao and others.
+TBA
 
 **Deceased readings and events:**
 
-~~- Saturday, 4/8/23, 2PM @ Mission Creek, Iowa City, IA, with Lauren Haldeman~~.
+-~~Friday, 2/9/24, 5PM @ Vulpes Bastille, Kansas City, KS, with Trey Moody, Gabriel Dozal, and others~~.
+
+-~~Saturday, 2/10/24, 7PM @ Nighthawk, Kansas City, KS, with Danika Stegeman May, S. Brook Corfman, Vi Khi Nao and others~~.
+
+-~~Saturday, 4/8/23, 2PM @ Mission Creek, Iowa City, IA, with Lauren Haldeman~~.
 
 ~~- Wednesday, 3/5/23, 7PM @ Mother Foucault's, Portland, OR, with Jessica Johnson, Anne Yoder and Jon Raymond~~.
 
