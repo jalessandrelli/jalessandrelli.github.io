@@ -9,6 +9,8 @@ published: true
 
 ##### For _AND YET_ (Published by [Future Tense Books](https://futuretensebooks.com/product/and-yet/) in April 2024):
 
+[BOMB](https://bombmagazine.org/articles/2024/10/17/jeff-alessandrelli-by-ellena-basada/)
+
 [The Lives of Writers](https://thelivesofwriters.com/episodes/jeff-alessandrelli-jja)
 
 [The Drunken Odyssey_a podcast about the writing life](https://thedrunkenodyssey.com/2024/08/17/episode-636-jeff-alissandrelli/)
