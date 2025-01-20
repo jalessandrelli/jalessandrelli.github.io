@@ -8,7 +8,7 @@ published: true
 ---
 **Upcoming readings and events:**
 
-TBA
+-Thursday, 1/23/25, 6PM @ Portland State University, Portland, OR, with Susan Moore, David Seung, and Daneen Bergland.
 
 **Deceased readings and events:**
 
