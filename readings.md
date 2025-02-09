@@ -8,6 +8,8 @@ published: true
 ---
 **Upcoming readings and events:**
 
+-Saturday, 2/8/25, 7:30PM @ Mother Foucault's, Portland, OR, Joshua Pollock book release party, with Joshua Pollock and others.
+
 -Thursday, 1/23/25, 6PM @ Portland State University, Portland, OR, with Susan Moore, David Seung, and Daneen Bergland.
 
 **Deceased readings and events:**
