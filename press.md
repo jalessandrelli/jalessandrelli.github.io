@@ -21,17 +21,19 @@ published: true
 
 [Write or Die](https://writeordiemag.com/author-interviews/jeff-alessandrelli-and-anna-mantzaris)
 
+[Heavy Feather Review](https://heavyfeatherreview.org/2025/04/16/and-yet-alessandrelli/) 
+
 [The Brooklyn Rail: Sex is Not the End reading](https://www.youtube.com/watch?v=9gCAbPpOMQo)
 
 [Powell's Books Staff Top Five of 2022](https://www.powells.com/staff-top-fives-2022)
 
 [Largehearted Boy](https://largeheartedboy.com/2024/04/22/jeff-alessandrellis-playlist-for-his-novel-and-yet/)
 
-["Abject Uncertainty"--_And Yet_ interview at Poetry Northwest with Ashley Yang Thompson](https://www.poetrynw.org/interview-abject-uncertainty/)
+["Abject Uncertainty"--_And Yet_ OG interview at Poetry Northwest with Ashley Yang Thompson](https://www.poetrynw.org/interview-abject-uncertainty/)
 
-[_And Yet_ interview with Alexis Orgera at Full Stop](https://www.full-stop.net/2022/10/04/interviews/jeff-and-lex/jeff-alessandrelli-and-alexis-orgera/) 
+[_And Yet_ OG interview with Alexis Orgera at Full Stop](https://www.full-stop.net/2022/10/04/interviews/jeff-and-lex/jeff-alessandrelli-and-alexis-orgera/) 
 
-[_And Yet_ interview with Kelly Krumrie at The Adroit Journal](https://theadroitjournal.org/2022/12/16/a-conversation-between-jeff-alessandrelli-kelly-krumrie/)
+[_And Yet_ OG interview with Kelly Krumrie at The Adroit Journal](https://theadroitjournal.org/2022/12/16/a-conversation-between-jeff-alessandrelli-kelly-krumrie/)
 
 "_And Yet_ asks, What might be gained or lost from living one’s life via text instead of directly participating in the world? Through aphorism, anecdote, observation, and personal narrative, Alessandrelli examines the complex entanglements of sexuality and desire. A profound and concise work of self-construction." –Patrick Cottrell
 
