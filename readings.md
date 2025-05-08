@@ -8,11 +8,13 @@ published: true
 ---
 **Upcoming readings and events:**
 
--Saturday, 2/8/25, 7:30PM @ Mother Foucault's, Portland, OR, Joshua Pollock book release party, with Joshua Pollock and others.
-
--Thursday, 1/23/25, 6PM @ Portland State University, Portland, OR, with Susan Moore, David Seung, and Daneen Bergland.
+-Tuesday, 5/6/25, 6:30PM CST @ Zoom, The Nebraska Poetry Society, Nebraska. 
 
 **Deceased readings and events:**
+
+~~-Saturday, 2/8/25, 7:30PM @ Mother Foucault's, Portland, OR, Joshua Pollock book release party, with Joshua Pollock and others~~.
+
+~~-Thursday, 1/23/25, 6PM @ Portland State University, Portland, OR, with Susan Moore, David Seung, and Daneen Bergland~~.
 
 -~~Friday, 2/9/24, 5PM @ Vulpes Bastille, Kansas City, KS, with Trey Moody, Gabriel Dozal, and others~~.
 
