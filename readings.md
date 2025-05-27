@@ -8,6 +8,8 @@ published: true
 ---
 **Upcoming readings and events:**
 
+-Saturday, 5/31/25, 12:30PM PST @ Clark College, Vancouver, WA, with Dao Strom, Selah Saterstrom, Jane Wong, Elena Passarello, and others.
+
 -Tuesday, 5/6/25, 6:30PM CST @ Zoom, The Nebraska Poetry Society, Nebraska. 
 
 **Deceased readings and events:**
