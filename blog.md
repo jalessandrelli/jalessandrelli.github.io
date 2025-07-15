@@ -8,4 +8,7 @@ published: true
 ---
 ##### >
 From 2016-2021 I was a staff blogger for *The Kenyon Review*, contributing short essays and reviews and conducting author interviews. Find more here: [The Kenyon Review blog](https://www.kenyonreview.org/author/jeff-alessandrelli/)
+
+I started a [Tumblr](https://jeffalessandrelli.tumblr.com/) in 2008 and still post on it. I can't believe it either.
+
 [![boogerman]({{ "/assets/boogerman3.gif" | absolute_url }})]()
