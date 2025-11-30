@@ -8,6 +8,8 @@ published: true
 ---
 **Upcoming readings and events:**
 
+-Saturday, 12/6/25,  @ Up Up Books, Portland, OR, with Rachelle Toarmino, Aidan Ryan, Bair Banu, Christopher Diaz
+
 -Saturday, 10/4/25,  @ Portland Poetry Confluence, Portland, OR, with De-Canon, First Matter, Spare Room, Buckman Journal and others. 
 
 -Saturday, 5/31/25, 12:30PM PST @ Clark College, Vancouver, WA, with Dao Strom, Selah Saterstrom, Jane Wong, Elena Passarello, and others.
