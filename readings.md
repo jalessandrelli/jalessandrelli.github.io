@@ -8,15 +8,19 @@ published: true
 ---
 **Upcoming readings and events:**
 
--Saturday, 12/6/25,  @ Up Up Books, Portland, OR, with Rachelle Toarmino, Aidan Ryan, Bair Banu, Christopher Diaz
+-Wednesday, 5/27/26,  @ University of Chicago/Franke Institute, Chicago, IL, with Lindsey Boldt, Garrett Caples, and others. 
 
--Saturday, 10/4/25,  @ Portland Poetry Confluence, Portland, OR, with De-Canon, First Matter, Spare Room, Buckman Journal and others. 
-
--Saturday, 5/31/25, 12:30PM PST @ Clark College, Vancouver, WA, with Dao Strom, Selah Saterstrom, Jane Wong, Elena Passarello, and others.
-
--Tuesday, 5/6/25, 6:30PM CST @ Zoom, The Nebraska Poetry Society, Nebraska. 
+-Friday, 6/5/26,  @ One Grand Gallery, Portland, OR. 
 
 **Deceased readings and events:**
+
+~~-Saturday, 12/6/25,  @ Up Up Books, Portland, OR, with Rachelle Toarmino, Aidan Ryan, Bair Banu, Christopher Diaz~~
+
+~~-Saturday, 10/4/25,  @ Portland Poetry Confluence, Portland, OR, with De-Canon, First Matter, Spare Room, Buckman Journal and others.~~ 
+
+~~-Saturday, 5/31/25, 12:30PM PST @ Clark College, Vancouver, WA, with Dao Strom, Selah Saterstrom, Jane Wong, Elena Passarello, and others.~~
+
+~~-Tuesday, 5/6/25, 6:30PM CST @ Zoom, The Nebraska Poetry Society, Nebraska.~~ 
 
 ~~-Saturday, 2/8/25, 7:30PM @ Mother Foucault's, Portland, OR, Joshua Pollock book release party, with Joshua Pollock and others~~.
 
